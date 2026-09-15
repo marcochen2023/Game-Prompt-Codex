@@ -1,0 +1,19 @@
+打造一款monster tamer raising fragile glass beasts that trade huge power for fragility，細節如下：
+
+1.Generate five concept images for a monster tamer raising fragile glass beasts that trade huge power for fragility. Keep characters, props, and creatures simple and readable. Explore distinct environments with glass refraction, shard glints, breath fog, and prismatic halos. Aim for the atmosphere of Pokemon and the systemic variety of Coromon.
+
+2.Build a short, polished taming rite from the attached Menagerie of Shards concept. Draw the graphics in code and make the character controllable, with wild shards to befriend. Put glass-fragility trading at the center of the taming rite, and make the lighting and glass-fragility trading effects match the selected visual direction.
+
+3.Play through the first taming rite and identify where movement or interactions feel awkward. Improve the tamer's movement and action animations so actions feel responsive and are easy to follow. Test the taming rite again while preserving the existing glass-fragility trading interactions.
+
+4.Add experience points to the playable prototype. Award experience for completing rites, track the total, and show progress clearly in the interface. Play through the taming rite to check that rewards are recorded correctly.
+
+5.Give the tamer a clearly readable mirrored whistle. Adjust the tamer's facing and gear layering for each movement direction, especially when facing upward, so the mirrored whistle sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make harmonic chimes calm wild shards and raise tame odds each verse. Keep harsh clangs frightening them into shattering counterattacks. Make calmed shards hum softly, then test the same approach with chimes and with clangs.
+
+7.Let shattered encounters drop prisms that can be fused into new shards. Make the prisms scatter with real bounce while staying easy to see and gather. Test drops after chimes and after clangs without changing the calm and fright rules.
+
+8.Expand the playable menagerie into seven distinct habitats. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and glass-fragility trading rules. Connect the habitats into a expedition that the player can progress through.
+
+9.Add a whistle and terrarium kit for what is earned in the menagerie. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

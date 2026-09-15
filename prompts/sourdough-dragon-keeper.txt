@@ -1,0 +1,19 @@
+打造一款bakery battler where a baker duels with a sourdough starter dragon and a proof-heat oven，細節如下：
+
+1.Generate five concept images for a bakery battler where a baker duels with a sourdough starter dragon and a proof-heat oven. Keep characters, props, and creatures simple and readable. Explore distinct environments with flour dust, proof bubbles, oven glow, and wing-flap gusts. Aim for the atmosphere of Pokemon and the systemic variety of Overcooked.
+
+2.Build a short, polished bake-off bout from the attached Crumbwing Bakery concept. Draw the graphics in code and make the character controllable, with health-inspector shades to outbake. Put proof-heat oven dueling at the center of the bake-off bout, and make the lighting and proof-heat oven dueling effects match the selected visual direction.
+
+3.Play through the first bake-off bout and identify where movement or interactions feel awkward. Improve the baker's movement and action animations so actions feel responsive and are easy to follow. Test the bake-off bout again while preserving the existing proof-heat oven dueling interactions.
+
+4.Add experience points to the playable prototype. Award experience for winning the blue ribbon, track the total, and show progress clearly in the interface. Play through the bake-off bout to check that rewards are recorded correctly.
+
+5.Give the baker a clearly readable flour-dusted dragon-scale apron. Adjust the baker's facing and gear layering for each movement direction, especially when facing upward, so the flour-dusted dragon-scale apron sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make long-proofed loaves hit hard but overproof past the sour bell. Keep quick loaves safe yet dealing chip damage. Make overproofed dough sag visibly, then test the same bout fought long-proofed and quick-baked.
+
+7.Let outbaked shades drop starters, peels, and ribbons on the tiles. Make the drops rest where they land while staying easy to spot and claim. Test drops long-proofed and quick-baked without changing the sour and chip rules.
+
+8.Expand the playable bakery into seven distinct baking districts. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and proof-heat oven dueling rules. Connect the baking districts into a fair season that the player can progress through.
+
+9.Add a starter shelf and peel rack for what is earned in the bakery. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

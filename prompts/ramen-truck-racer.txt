@@ -1,0 +1,19 @@
+打造一款arcade racer where a noodle chef drifts a ramen truck with a broth-slosh boost tank，細節如下：
+
+1.Generate five concept images for an arcade racer where a noodle chef drifts a ramen truck with a broth-slosh boost tank. Keep characters, props, and creatures simple and readable. Explore distinct environments with broth slosh, steam plumes, neon signs, and noodle-trail sparks. Aim for the atmosphere of Mario Kart and the systemic variety of Crazy Taxi.
+
+2.Build a short, polished midnight grand prix from the attached Midnight Broth Run concept. Draw the graphics in code and make the character controllable, with rival trucks to outdrift. Put broth-slosh boosting at the center of the midnight grand prix, and make the lighting and broth-slosh boosting effects match the selected visual direction.
+
+3.Play through the first midnight grand prix and identify where movement or interactions feel awkward. Improve the chef-driver's movement and action animations so actions feel responsive and are easy to follow. Test the midnight grand prix again while preserving the existing broth-slosh boosting interactions.
+
+4.Add experience points to the playable prototype. Award experience for taking the grand prix, track the total, and show progress clearly in the interface. Play through the midnight grand prix to check that rewards are recorded correctly.
+
+5.Give the chef-driver a clearly readable noodle-bowl helmet. Adjust the chef-driver's facing and gear layering for each movement direction, especially when facing upward, so the noodle-bowl helmet sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make full broth tanks boost hard but slosh out past the spill bell in hard turns. Keep low tanks grippy yet boostless and slow. Make sloshing tanks rock visibly, then test the same race tanked full and running low.
+
+7.Let outdrifted rivals drop toppings, tickets, and lucky chopsticks on the course. Make the drops skid where they land while staying easy to spot and grab. Test drops tanked full and running low without changing the spill and boostless rules.
+
+8.Expand the playable city into seven distinct night circuits. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and broth-slosh boosting rules. Connect the night circuits into a season that the player can progress through.
+
+9.Add a broth garage and topping shelf for what is earned in the city. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

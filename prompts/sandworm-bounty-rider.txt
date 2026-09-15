@@ -1,0 +1,19 @@
+打造一款open-desert action where a bounty rider harpoons sandworms with a thumper-rhythm lure，細節如下：
+
+1.Generate five concept images for an open-desert action where a bounty rider harpoons sandworms with a thumper-rhythm lure. Keep characters, props, and creatures simple and readable. Explore distinct environments with sand plumes, thumper rings, scale glints, and heat haze. Aim for the atmosphere of Shadow of the Colossus and the systemic variety of Monster Hunter.
+
+2.Build a short, polished worm hunt from the attached Howling Erg concept. Draw the graphics in code and make the character controllable, with sandworms to harpoon. Put thumper-rhythm luring at the center of the worm hunt, and make the lighting and thumper-rhythm luring effects match the selected visual direction.
+
+3.Play through the first worm hunt and identify where movement or interactions feel awkward. Improve the rider's movement and action animations so actions feel responsive and are easy to follow. Test the worm hunt again while preserving the existing thumper-rhythm luring interactions.
+
+4.Add experience points to the playable prototype. Award experience for claiming bounties, track the total, and show progress clearly in the interface. Play through the worm hunt to check that rewards are recorded correctly.
+
+5.Give the rider a clearly readable worm-tooth pauldron. Adjust the rider's facing and gear layering for each movement direction, especially when facing upward, so the worm-tooth pauldron sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make thumper beats synced to the worm's pulse enrage it into surfacing. Keep arrhythmic beats safe but ignored under the sand. Make surfacing sand dome visibly, then test the same lure synced and arrhythmic.
+
+7.Let felled worms spill teeth, glands, and saddle gear across the dunes. Make the spills half-bury where they land while staying easy to spot and dig out. Test spills from synced hunts and arrhythmic hunts without changing the surface and ignore rules.
+
+8.Expand the playable erg into seven distinct hunting grounds. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and thumper-rhythm luring rules. Connect the hunting grounds into a bounty board that the player can progress through.
+
+9.Add a trophy wall and thumper kit for what is earned in the erg. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款harbor puzzler where a tug captain nudges ships with a rope-and-tide grid，細節如下：
+
+1.Generate five concept images for a harbor puzzler where a tug captain nudges ships with a rope-and-tide grid. Keep characters, props, and creatures simple and readable. Explore distinct environments with rope arcs, tide lines, gull cries, and buoy bells. Aim for the atmosphere of Baba Is You and the systemic variety of Mini Metro.
+
+2.Build a short, polished harbor morning from the attached Tugwater concept. Draw the graphics in code and make the character controllable, with stuck freighters to nudge free. Put rope-and-tide nudging at the center of the harbor morning, and make the lighting and rope-and-tide nudging effects match the selected visual direction.
+
+3.Play through the first harbor morning and identify where movement or interactions feel awkward. Improve the captain's movement and action animations so actions feel responsive and are easy to follow. Test the harbor morning again while preserving the existing rope-and-tide nudging interactions.
+
+4.Add experience points to the playable prototype. Award experience for clearing the harbor, track the total, and show progress clearly in the interface. Play through the harbor morning to check that rewards are recorded correctly.
+
+5.Give the captain a clearly readable salt-white captain cap. Adjust the captain's facing and gear layering for each movement direction, especially when facing upward, so the salt-white captain cap sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make high-tide nudges float ships free but surge past the snap bell. Keep low-tide nudges snap-safe yet grinding on mud. Make grinding hulls groan visibly, then test the same morning pushed high and worked low.
+
+7.Let freed freighters drop crates, ropes, and manifests on the quay. Make the cargo rest where cranes set it while staying easy to spot and log. Test cargo pushed high and worked low without changing the surge and grind rules.
+
+8.Expand the playable harbor into seven distinct harbor berths. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and rope-and-tide nudging rules. Connect the harbor berths into a shipping year that the player can progress through.
+
+9.Add a knot board and tide table for what is earned in the harbor. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

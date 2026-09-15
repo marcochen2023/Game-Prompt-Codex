@@ -1,0 +1,19 @@
+打造一款roguelike fishing battler where an angler duels krakens with a tension-line harpoon，細節如下：
+
+1.Generate five concept images for a roguelike fishing battler where an angler duels krakens with a tension-line harpoon. Keep characters, props, and creatures simple and readable. Explore distinct environments with line tension arcs, spray bursts, bioluminescent lures, and deck lantern sway. Aim for the atmosphere of Dredge and the systemic variety of Hades.
+
+2.Build a short, polished deep cast from the attached Blacktide Grounds concept. Draw the graphics in code and make the character controllable, with kraken arms to sever. Put tension-line dueling at the center of the deep cast, and make the lighting and tension-line dueling effects match the selected visual direction.
+
+3.Play through the first deep cast and identify where movement or interactions feel awkward. Improve the angler's movement and action animations so actions feel responsive and are easy to follow. Test the deep cast again while preserving the existing tension-line dueling interactions.
+
+4.Add experience points to the playable prototype. Award experience for landing the catch, track the total, and show progress clearly in the interface. Play through the deep cast to check that rewards are recorded correctly.
+
+5.Give the angler an clearly readable oilskin yellow coat. Adjust the angler's facing and gear layering for each movement direction, especially when facing upward, so the oilskin yellow coat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make taut lines deal double haul damage but snap past the red gauge. Keep slack lines safe yet unable to wound. Make straining lines sing and fray, then test the same duel hauled taut and left slack.
+
+7.Let severed arms drop suckers, ink sacs, and tackle overboard. Make the drops bob on the existing waves while staying easy to spot and gaff. Test drops from taut duels and slack duels without changing the snap and slack rules.
+
+8.Expand the playable grounds into seven distinct fishing grounds. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and tension-line dueling rules. Connect the fishing grounds into a season that the player can progress through.
+
+9.Add a tackle box and harpoon rack for what is earned in the grounds. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

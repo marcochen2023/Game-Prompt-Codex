@@ -1,0 +1,19 @@
+打造一款co-op climber where lighthouse tenders chain lantern relays up a drowned cliff，細節如下：
+
+1.Generate five concept images for a co-op climber where lighthouse tenders chain lantern relays up a drowned cliff. Keep characters, props, and creatures simple and readable. Explore distinct environments with lantern chains, wave foam, gull cries, and rope sway. Aim for the atmosphere of It Takes Two and the systemic variety of Celeste.
+
+2.Build a short, polished cliff ascent from the attached Saltstair concept. Draw the graphics in code and make the character controllable, with gale shades to outclimb. Put lantern-relay chaining at the center of the cliff ascent, and make the lighting and lantern-relay chaining effects match the selected visual direction.
+
+3.Play through the first cliff ascent and identify where movement or interactions feel awkward. Improve the tender's movement and action animations so actions feel responsive and are easy to follow. Test the cliff ascent again while preserving the existing lantern-relay chaining interactions.
+
+4.Add experience points to the playable prototype. Award experience for lighting the stair, track the total, and show progress clearly in the interface. Play through the cliff ascent to check that rewards are recorded correctly.
+
+5.Give the tender a clearly readable barnacled oil lamp. Adjust the tender's facing and gear layering for each movement direction, especially when facing upward, so the barnacled oil lamp sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make chained lanterns share light and warm both climbers on the link. Keep lone lamps warming only the holder while the partner freezes. Make linked flames lean toward each other, then test the same ascent chained and split lone.
+
+7.Let gales scatter oil, wicks, and pitons along the stair. Make the items clatter where they land while staying easy to spot and grab. Test spills chained and split lone without changing the shared and lone rules.
+
+8.Expand the playable cliff into seven distinct cliff tiers. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and lantern-relay chaining rules. Connect the cliff tiers into a lighting that the player can progress through.
+
+9.Add a relay map and climbing rack for what is earned in the cliff. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

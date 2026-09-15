@@ -1,0 +1,19 @@
+打造一款virtual-pet sim where a keeper steeps moods for a tea dragon with a kettle-temperament bar，細節如下：
+
+1.Generate five concept images for a virtual-pet sim where a keeper steeps moods for a tea dragon with a kettle-temperament bar. Keep characters, props, and creatures simple and readable. Explore distinct environments with steam curls, scale shimmer, bubble chirps, and petal rain. Aim for the atmosphere of Tamagotchi and the systemic variety of Viva Pinata.
+
+2.Build a short, polished first steeping from the attached Steeppeak concept. Draw the graphics in code and make the character controllable, with tantrum chills to soothe. Put kettle-temperament steeping at the center of the first steeping, and make the lighting and kettle-temperament steeping effects match the selected visual direction.
+
+3.Play through the first first steeping and identify where movement or interactions feel awkward. Improve the keeper's movement and action animations so actions feel responsive and are easy to follow. Test the first steeping again while preserving the existing kettle-temperament steeping interactions.
+
+4.Add experience points to the playable prototype. Award experience for raising a tea master, track the total, and show progress clearly in the interface. Play through the first steeping to check that rewards are recorded correctly.
+
+5.Give the keeper a clearly readable tea-leaf scarf. Adjust the keeper's facing and gear layering for each movement direction, especially when facing upward, so the tea-leaf scarf sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make peak-steeped tea excite the dragon into tricks but scald past the steam bell. Keep lukewarm tea calm yet trickless and drowsy. Make scalded snouts puff visibly, then test the same day steeped peak and served lukewarm.
+
+7.Let trick shows scatter scales, coins, and tea cakes on the mats. Make the gifts rest where they land while staying easy to spot and pocket. Test gifts steeped peak and served lukewarm without changing the scald and drowsy rules.
+
+8.Expand the playable peak into seven distinct tea rooms. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and kettle-temperament steeping rules. Connect the tea rooms into a festival year that the player can progress through.
+
+9.Add a steep log and treat shelf for what is earned in the peak. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款dusty adventure where an archaeologist decodes strata with a brush-and-sonar kit，細節如下：
+
+1.Generate five concept images for a dusty adventure where an archaeologist decodes strata with a brush-and-sonar kit. Keep characters, props, and creatures simple and readable. Explore distinct environments with dust motes, brush strokes, sonar pings, and sun shafts in shafts. Aim for the atmosphere of Tomb Raider and the systemic variety of Outer Wilds.
+
+2.Build a short, polished dig day from the attached Strata of Echoes concept. Draw the graphics in code and make the character controllable, with tomb shades to rebury. Put strata-sonar decoding at the center of the dig day, and make the lighting and strata-sonar decoding effects match the selected visual direction.
+
+3.Play through the first dig day and identify where movement or interactions feel awkward. Improve the archaeologist's movement and action animations so actions feel responsive and are easy to follow. Test the dig day again while preserving the existing strata-sonar decoding interactions.
+
+4.Add experience points to the playable prototype. Award experience for sealing the strata, track the total, and show progress clearly in the interface. Play through the dig day to check that rewards are recorded correctly.
+
+5.Give the archaeologist a clearly readable dust-caked fedora. Adjust the archaeologist's facing and gear layering for each movement direction, especially when facing upward, so the dust-caked fedora sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make sonar pings reveal relics deep but wake shades in the same stratum. Keep hand-brush digs quiet yet slow to a crawl. Make waking dust swirl black, then test the same dig pinged loud and brushed quiet.
+
+7.Let settled dust drop shards, beads, and field notes across the trench. Make the finds glint where they land while staying easy to spot and bag. Test finds from loud pings and quiet brushes without changing the reveal and wake rules.
+
+8.Expand the playable site into seven distinct dig strata. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and strata-sonar decoding rules. Connect the dig strata into a expedition that the player can progress through.
+
+9.Add a finds tray and sonar rig for what is earned in the site. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

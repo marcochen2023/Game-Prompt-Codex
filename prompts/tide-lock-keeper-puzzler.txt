@@ -1,0 +1,19 @@
+打造一款canal puzzler where a keeper floods locks with a gate-and-gull timetable，細節如下：
+
+1.Generate five concept images for a canal puzzler where a keeper floods locks with a gate-and-gull timetable. Keep characters, props, and creatures simple and readable. Explore distinct environments with gate groans, water levels, gull cries, and rope coils. Aim for the atmosphere of Baba Is You and the systemic variety of Mini Metro.
+
+2.Build a short, polished lock day from the attached Gullgate concept. Draw the graphics in code and make the character controllable, with stranded barges to float. Put gate-and-gull timing at the center of the lock day, and make the lighting and gate-and-gull timing effects match the selected visual direction.
+
+3.Play through the first lock day and identify where movement or interactions feel awkward. Improve the keeper's movement and action animations so actions feel responsive and are easy to follow. Test the lock day again while preserving the existing gate-and-gull timing interactions.
+
+4.Add experience points to the playable prototype. Award experience for clearing the gullgate, track the total, and show progress clearly in the interface. Play through the lock day to check that rewards are recorded correctly.
+
+5.Give the keeper a clearly readable tarred keeper coat. Adjust the keeper's facing and gear layering for each movement direction, especially when facing upward, so the tarred keeper coat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make double-gate floods lift fast but swamp past the spill bell. Keep single-gate floods spill-safe yet lifting slowly. Make swamping decks wash visibly, then test the same day flooded double and gated single.
+
+7.Let floated barges pay tolls, eels, and letters at the gate. Make the payments rest where handed while staying easy to spot and ledger. Test payments flooded double and gated single without changing the swamp and slow rules.
+
+8.Expand the playable canal into seven distinct lock reaches. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and gate-and-gull timing rules. Connect the lock reaches into a shipping year that the player can progress through.
+
+9.Add a gate key ring and tide table for what is earned in the canal. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款micro RTS where a handler commands a drone swarm with a signal-relay mesh，細節如下：
+
+1.Generate five concept images for a micro RTS where a handler commands a drone swarm with a signal-relay mesh. Keep characters, props, and creatures simple and readable. Explore distinct environments with relay beams, rotor wash, signal static, and dust kicked sideways. Aim for the atmosphere of StarCraft and the systemic variety of Into the Breach.
+
+2.Build a short, polished relay defense from the attached Ash Relay concept. Draw the graphics in code and make the character controllable, with rogue swarms to jam. Put signal-relay mesh routing at the center of the relay defense, and make the lighting and signal-relay mesh routing effects match the selected visual direction.
+
+3.Play through the first relay defense and identify where movement or interactions feel awkward. Improve the handler's movement and action animations so actions feel responsive and are easy to follow. Test the relay defense again while preserving the existing signal-relay mesh routing interactions.
+
+4.Add experience points to the playable prototype. Award experience for holding the relay, track the total, and show progress clearly in the interface. Play through the relay defense to check that rewards are recorded correctly.
+
+5.Give the handler a clearly readable signal-orange handler vest. Adjust the handler's facing and gear layering for each movement direction, especially when facing upward, so the signal-orange handler vest sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make chained relay tiles boost drone speed across the whole mesh. Keep dead-zone rock unlinked so drones there crawl alone. Make linked tiles hum softly, then test the same push from relay mesh and from dead zone.
+
+7.Let downed drones drop cells, rotors, and chips on the field. Make the drops scatter on the existing blast physics while staying easy to spot and salvage. Test drops on relay mesh and dead zone without changing the boost and crawl rules.
+
+8.Expand the playable basin into seven distinct relay sectors. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and signal-relay mesh routing rules. Connect the relay sectors into a campaign that the player can progress through.
+
+9.Add a hangar roster and relay map for what is earned in the basin. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

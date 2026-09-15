@@ -1,0 +1,19 @@
+打造一款rhythm tower defense where a klezmer conducts golems with a tempo-fiddle baton，細節如下：
+
+1.Generate five concept images for a rhythm tower defense where a klezmer conducts golems with a tempo-fiddle baton. Keep characters, props, and creatures simple and readable. Explore distinct environments with bow strokes, tempo rings, clay dust, and wedding-light strings. Aim for the atmosphere of Crypt of the NecroDancer and the systemic variety of Defense Grid.
+
+2.Build a short, polished klezmer night from the attached Brass Shtetl concept. Draw the graphics in code and make the character controllable, with hollow shells to hold back. Put tempo-fiddle conducting at the center of the klezmer night, and make the lighting and tempo-fiddle conducting effects match the selected visual direction.
+
+3.Play through the first klezmer night and identify where movement or interactions feel awkward. Improve the conductor's movement and action animations so actions feel responsive and are easy to follow. Test the klezmer night again while preserving the existing tempo-fiddle conducting interactions.
+
+4.Add experience points to the playable prototype. Award experience for holding the shtetl, track the total, and show progress clearly in the interface. Play through the klezmer night to check that rewards are recorded correctly.
+
+5.Give the conductor a clearly readable fiddle-bow baton. Adjust the conductor's facing and gear layering for each movement direction, especially when facing upward, so the fiddle-bow baton sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make on-tempo orders double golem speed but snap strings past the strain bell. Keep off-tempo orders safe yet marching half-speed. Make straining strings whine visibly, then test the same night conducted on-tempo and fully off-tempo.
+
+7.Let shattered shells drop clay, rosin, and spare strings on the lanes. Make the drops thud where they land while staying easy to spot and gather. Test drops on-tempo and off-tempo without changing the snap and half-speed rules.
+
+8.Expand the playable shtetl into seven distinct shtetl lanes. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and tempo-fiddle conducting rules. Connect the shtetl lanes into a wedding season that the player can progress through.
+
+9.Add a golem roster and tune book for what is earned in the shtetl. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

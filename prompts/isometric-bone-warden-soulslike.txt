@@ -1,0 +1,19 @@
+打造一款isometric soulslike where a bone warden trades guard stamina against a spreading corruption，細節如下：
+
+1.Generate five concept images for an isometric soulslike where a bone warden trades guard stamina against a spreading corruption. Keep characters, props, and creatures simple and readable. Explore distinct environments with marrow mist, ember cracks in bone, drifting bone dust, and guttering braziers. Aim for the atmosphere of Dark Souls and the systemic variety of Hades.
+
+2.Build a short, polished crypt encounter from the attached Ossuary Depths concept. Draw the graphics in code and make the character controllable, with risen husks to put down. Put stamina-based bone guard at the center of the crypt encounter, and make the lighting and stamina-based bone guard effects match the selected visual direction.
+
+3.Play through the first crypt encounter and identify where movement or interactions feel awkward. Improve the bone warden's movement and action animations so actions feel responsive and are easy to follow. Test the crypt encounter again while preserving the existing stamina-based bone guard interactions.
+
+4.Add experience points to the playable prototype. Award experience for laying husks to rest, track the total, and show progress clearly in the interface. Play through the crypt encounter to check that rewards are recorded correctly.
+
+5.Give the bone warden an clearly readable antlered helm. Adjust the bone warden's facing and gear layering for each movement direction, especially when facing upward, so the antlered helm sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make corruption creep across bone floors and empower husks standing inside it. Keep brazier-lit stone purified so fights near flame stay fair. Make corrupted ground pulse darkly, then test the same pull with the player inside corruption and inside brazier light.
+
+7.Let shattered bone shards lie where they fall and be reforged mid-fight into throwing splinters. Make the shards persist on the ground while staying easy to read and grab. Test drops on corrupted bone and on purified stone without changing the corruption and brazier rules.
+
+8.Expand the playable ossuary into seven distinct crypt wings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and stamina-based bone guard rules. Connect the crypt wings into a descent that the player can progress through.
+
+9.Add a relic and offering altar for what is earned in the ossuary. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款2.5D puppet-knight platformer with string-tension acrobatics across theater stages，細節如下：
+
+1.Generate five concept images for a 2.5D puppet-knight platformer with string-tension acrobatics across theater stages. Keep characters, props, and creatures simple and readable. Explore distinct environments with string physics, footlight glow, paper confetti, and painted backdrops. Aim for the atmosphere of Gris and the systemic variety of Hollow Knight.
+
+2.Build a short, polished stage act from the attached Candlefoot Stage concept. Draw the graphics in code and make the character controllable, with scene gremlins to swat. Put string-tension acrobatics at the center of the stage act, and make the lighting and string-tension acrobatics effects match the selected visual direction.
+
+3.Play through the first stage act and identify where movement or interactions feel awkward. Improve the puppet knight's movement and action animations so actions feel responsive and are easy to follow. Test the stage act again while preserving the existing string-tension acrobatics interactions.
+
+4.Add experience points to the playable prototype. Award experience for earning applause, track the total, and show progress clearly in the interface. Play through the stage act to check that rewards are recorded correctly.
+
+5.Give the puppet knight a clearly readable painted wooden mask. Adjust the puppet knight's facing and gear layering for each movement direction, especially when facing upward, so the painted wooden mask sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make standing in a spotlight empower attacks but mark the knight clearly to every enemy. Keep backstage shadow safe for stealth but unable to earn applause. Make lit floorboards glow at the edges, then test the same fight center-spotlight and in the wings.
+
+7.Let cut strings fall and tangle stage machinery into new platforms. Make the fallen strings obey the existing tension simulation while staying easy to read and climb. Test tangles under spotlight and in shadow without changing the spotlight and shadow rules.
+
+8.Expand the playable playhouse into seven distinct stage acts. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and string-tension acrobatics rules. Connect the stage acts into a tour that the player can progress through.
+
+9.Add a mask and marionette wardrobe for what is earned in the playhouse. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

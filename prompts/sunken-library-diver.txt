@@ -1,0 +1,19 @@
+打造一款diving adventure where a diver reshelves drowned books with a current-and-lantern rig，細節如下：
+
+1.Generate five concept images for a diving adventure where a diver reshelves drowned books with a current-and-lantern rig. Keep characters, props, and creatures simple and readable. Explore distinct environments with current ribbons, page flutters, lantern halos, and silt blooms. Aim for the atmosphere of Subnautica and the systemic variety of Abzu.
+
+2.Build a short, polished shelf dive from the attached The Drowned Stacks concept. Draw the graphics in code and make the character controllable, with ink squids to reshelve past. Put current-and-lantern diving at the center of the shelf dive, and make the lighting and current-and-lantern diving effects match the selected visual direction.
+
+3.Play through the first shelf dive and identify where movement or interactions feel awkward. Improve the diver's movement and action animations so actions feel responsive and are easy to follow. Test the shelf dive again while preserving the existing current-and-lantern diving interactions.
+
+4.Add experience points to the playable prototype. Award experience for restoring the stacks, track the total, and show progress clearly in the interface. Play through the shelf dive to check that rewards are recorded correctly.
+
+5.Give the diver a clearly readable brass diving helmet. Adjust the diver's facing and gear layering for each movement direction, especially when facing upward, so the brass diving helmet sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make strong currents shelve fast but scatter pages past the drift bell. Keep still water scatter-safe yet shelving slowly. Make drifting pages spiral visibly, then test the same dive ridden strong and finned still.
+
+7.Let shelved squids drop quills, clasps, and bookmarks on the shelves. Make the finds rest where the current leaves them while staying easy to spot and shelve. Test finds ridden strong and finned still without changing the scatter and slow rules.
+
+8.Expand the playable stacks into seven distinct drowned wings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and current-and-lantern diving rules. Connect the drowned wings into a expedition that the player can progress through.
+
+9.Add a catalog and lantern oils for what is earned in the stacks. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款action roguelike where a chef fights dough mimics with heat-zone cooking combat，細節如下：
+
+1.Generate five concept images for an action roguelike where a chef fights dough mimics with heat-zone cooking combat. Keep characters, props, and creatures simple and readable. Explore distinct environments with stretching cheese, oven glow, flour dust, and bubbling sauce. Aim for the atmosphere of Overcooked and the systemic variety of Hades.
+
+2.Build a short, polished dinner rush from the attached Sourdough Deep concept. Draw the graphics in code and make the character controllable, with dough mimics to flatten. Put heat-zone cooking combat at the center of the dinner rush, and make the lighting and heat-zone cooking combat effects match the selected visual direction.
+
+3.Play through the first dinner rush and identify where movement or interactions feel awkward. Improve the chef's movement and action animations so actions feel responsive and are easy to follow. Test the dinner rush again while preserving the existing heat-zone cooking combat interactions.
+
+4.Add experience points to the playable prototype. Award experience for serving perfect pies, track the total, and show progress clearly in the interface. Play through the dinner rush to check that rewards are recorded correctly.
+
+5.Give the chef a clearly readable tomato-red bandana. Adjust the chef's facing and gear layering for each movement direction, especially when facing upward, so the tomato-red bandana sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make lava-oven zones cook toppings fast but scorch them if left past the bell. Keep chill-larder alcoves pausing cook timers safely. Make scorching dishes smoke at the rim, then test the same pie in an oven lane and in a larder nook.
+
+7.Let grease slicks spread where fritters fall and slide both chef and mimics. Make the slicks spread on the existing heat simulation while staying easy to read and mop. Test spills in oven lanes and in larder nooks without changing the scorch and chill rules.
+
+8.Expand the playable dungeonendar into seven distinct dungeon courses. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and heat-zone cooking combat rules. Connect the dungeon courses into a tasting menu that the player can progress through.
+
+9.Add a pantry and knife roll for what is earned in the dungeonendar. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

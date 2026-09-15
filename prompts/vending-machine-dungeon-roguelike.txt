@@ -1,0 +1,19 @@
+打造一款vending roguelike where a restocker fights snack mimics with a coin-and-coil arsenal，細節如下：
+
+1.Generate five concept images for a vending roguelike where a restocker fights snack mimics with a coin-and-coil arsenal. Keep characters, props, and creatures simple and readable. Explore distinct environments with coil spins, coin glints, wrapper bursts, and fluorescent hum. Aim for the atmosphere of Hades and the systemic variety of Balatro.
+
+2.Build a short, polished restock run from the attached Humvault 24 concept. Draw the graphics in code and make the character controllable, with snack mimics to vend-slay. Put coin-and-coil combat at the center of the restock run, and make the lighting and coin-and-coil combat effects match the selected visual direction.
+
+3.Play through the first restock run and identify where movement or interactions feel awkward. Improve the restocker's movement and action animations so actions feel responsive and are easy to follow. Test the restock run again while preserving the existing coin-and-coil combat interactions.
+
+4.Add experience points to the playable prototype. Award experience for stocking every row, track the total, and show progress clearly in the interface. Play through the restock run to check that rewards are recorded correctly.
+
+5.Give the restocker a clearly readable coin-changer belt. Adjust the restocker's facing and gear layering for each movement direction, especially when facing upward, so the coin-changer belt sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make jackpot coils vend jackpots but jam past the tilt bell. Keep exact-change coils jam-safe yet paying plainly. Make tilting machines rock visibly, then test the same run jackpot-fed and exact-changed.
+
+7.Let vended mimics drop snacks, coins, and prize cards in the tray. Make the drops thud where they land while staying easy to spot and shelve. Test drops jackpot-fed and exact-changed without changing the jam and plain rules.
+
+8.Expand the playable vault into seven distinct vending rows. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and coin-and-coil combat rules. Connect the vending rows into a stock year that the player can progress through.
+
+9.Add a coin ledger and coil keys for what is earned in the vault. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

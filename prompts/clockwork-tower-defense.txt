@@ -1,0 +1,19 @@
+打造一款clockwork tower defense where a horologist gears towers with a mainspring-tension grid，細節如下：
+
+1.Generate five concept images for a clockwork tower defense where a horologist gears towers with a mainspring-tension grid. Keep characters, props, and creatures simple and readable. Explore distinct environments with gear mesh, mainspring glow, oil mist, and chime shockwaves. Aim for the atmosphere of Defense Grid and the systemic variety of Into the Breach.
+
+2.Build a short, polished siege night from the attached Brass Bastion concept. Draw the graphics in code and make the character controllable, with rust mites to grind down. Put mainspring-tension routing at the center of the siege night, and make the lighting and mainspring-tension routing effects match the selected visual direction.
+
+3.Play through the first siege night and identify where movement or interactions feel awkward. Improve the horologist's movement and action animations so actions feel responsive and are easy to follow. Test the siege night again while preserving the existing mainspring-tension routing interactions.
+
+4.Add experience points to the playable prototype. Award experience for holding the bastion, track the total, and show progress clearly in the interface. Play through the siege night to check that rewards are recorded correctly.
+
+5.Give the horologist a clearly readable gear-monocle. Adjust the horologist's facing and gear layering for each movement direction, especially when facing upward, so the gear-monocle sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make overwound towers fire double but jam smoking past the red tick. Keep rested springs safe yet firing at half rate. Make straining gears shriek and spark, then test the same wave overwound and fully rested.
+
+7.Let smashed mites drop springs, cogs, and oil cans on the lanes. Make the drops rattle to rest while staying easy to spot and salvage. Test drops from overwound kills and rested kills without changing the overwind and rest rules.
+
+8.Expand the playable bastion into seven distinct bastion rings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and mainspring-tension routing rules. Connect the bastion rings into a siege calendar that the player can progress through.
+
+9.Add a gear workshop and tower registry for what is earned in the bastion. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

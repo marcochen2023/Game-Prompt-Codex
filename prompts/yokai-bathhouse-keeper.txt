@@ -1,0 +1,19 @@
+打造一款cozy sim where a keeper soothes yokai with a mineral-spring mixing system，細節如下：
+
+1.Generate five concept images for a cozy sim where a keeper soothes yokai with a mineral-spring mixing system. Keep characters, props, and creatures simple and readable. Explore distinct environments with steam curls, mineral shimmer, lantern reflections, and dripping eaves. Aim for the atmosphere of Spirited Away and the systemic variety of Stardew Valley.
+
+2.Build a short, polished opening night from the attached Steamveil Baths concept. Draw the graphics in code and make the character controllable, with grumbly yokai to soothe. Put spring-mixing bath tuning at the center of the opening night, and make the lighting and spring-mixing bath tuning effects match the selected visual direction.
+
+3.Play through the first opening night and identify where movement or interactions feel awkward. Improve the keeper's movement and action animations so actions feel responsive and are easy to follow. Test the opening night again while preserving the existing spring-mixing bath tuning interactions.
+
+4.Add experience points to the playable prototype. Award experience for earning five-star soaks, track the total, and show progress clearly in the interface. Play through the opening night to check that rewards are recorded correctly.
+
+5.Give the keeper a clearly readable cedar ladle headband. Adjust the keeper's facing and gear layering for each movement direction, especially when facing upward, so the cedar ladle headband sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make sulfur springs soothe rock yokai fast but itch river spirits until rinsed. Keep moonwell water gentle for all yet slow to satisfy. Make itchy spirits scratch visibly, then test the same guest in sulfur and in moonwell.
+
+7.Let guests drop charms, coins, and forgotten towels by the pools. Make the items steam where they land while staying easy to spot and return. Test drops at sulfur pools and moonwell pools without changing the soothe and itch rules.
+
+8.Expand the playable baths into seven distinct bath wings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and spring-mixing bath tuning rules. Connect the bath wings into a festival year that the player can progress through.
+
+9.Add a mineral chart and guest book for what is earned in the baths. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

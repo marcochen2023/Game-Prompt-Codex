@@ -1,0 +1,19 @@
+打造一款courtroom sim where a crab lawyer argues reef cases with an evidence-bubble brief，細節如下：
+
+1.Generate five concept images for a courtroom sim where a crab lawyer argues reef cases with an evidence-bubble brief. Keep characters, props, and creatures simple and readable. Explore distinct environments with bubble exhibits, gavel knocks, current sways, and plankton motes. Aim for the atmosphere of Ace Attorney and the systemic variety of Papers Please.
+
+2.Build a short, polished trial day from the attached The Brine Bench concept. Draw the graphics in code and make the character controllable, with guilty verdicts to overturn. Put evidence-bubble arguing at the center of the trial day, and make the lighting and evidence-bubble arguing effects match the selected visual direction.
+
+3.Play through the first trial day and identify where movement or interactions feel awkward. Improve the lawyer's movement and action animations so actions feel responsive and are easy to follow. Test the trial day again while preserving the existing evidence-bubble arguing interactions.
+
+4.Add experience points to the playable prototype. Award experience for winning every case, track the total, and show progress clearly in the interface. Play through the trial day to check that rewards are recorded correctly.
+
+5.Give the lawyer a clearly readable barnacled barrister wig. Adjust the lawyer's facing and gear layering for each movement direction, especially when facing upward, so the barnacled barrister wig sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make surprise bubbles sway juries fast but burst past the mistrial bell. Keep filed bubbles safe yet swaying slowly. Make bursting exhibits pop visibly, then test the same day argued splashy and filed careful.
+
+7.Let won cases leave pearls, writs, and thanks on the bench. Make the rewards rest where set while staying easy to spot and file. Test rewards argued splashy and filed careful without changing the burst and slow rules.
+
+8.Expand the playable reef into seven distinct court tiers. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and evidence-bubble arguing rules. Connect the court tiers into a session that the player can progress through.
+
+9.Add a bubble brief and precedent shelf for what is earned in the reef. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

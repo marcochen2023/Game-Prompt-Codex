@@ -1,0 +1,19 @@
+打造一款comedy tactics where a pickle knight brines battlefields with a vinegar-mist catapult，細節如下：
+
+1.Generate five concept images for a comedy tactics where a pickle knight brines battlefields with a vinegar-mist catapult. Keep characters, props, and creatures simple and readable. Explore distinct environments with vinegar mist, crunch shards, jar glints, and dill drift. Aim for the atmosphere of Into the Breach and the systemic variety of Worms.
+
+2.Build a short, polished brine skirmish from the attached Brinehold concept. Draw the graphics in code and make the character controllable, with bland wraiths to season. Put vinegar-mist zoning at the center of the brine skirmish, and make the lighting and vinegar-mist zoning effects match the selected visual direction.
+
+3.Play through the first brine skirmish and identify where movement or interactions feel awkward. Improve the knight's movement and action animations so actions feel responsive and are easy to follow. Test the brine skirmish again while preserving the existing vinegar-mist zoning interactions.
+
+4.Add experience points to the playable prototype. Award experience for taking Brinehold, track the total, and show progress clearly in the interface. Play through the brine skirmish to check that rewards are recorded correctly.
+
+5.Give the knight a clearly readable dill-plume helm. Adjust the knight's facing and gear layering for each movement direction, especially when facing upward, so the dill-plume helm sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make vinegar zones melt bland armor fast but pickle allies past the pucker bell. Keep fresh zones safe yet flavorless and weak. Make puckering allies wince visibly, then test the same skirmish fought brined and fresh.
+
+7.Let seasoned wraiths drop lids, spices, and recipe cards on the grid. Make the drops rest where they land while staying easy to spot and collect. Test drops fought brined and fresh without changing the pucker and weak rules.
+
+8.Expand the playable keep into seven distinct brine wards. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and vinegar-mist zoning rules. Connect the brine wards into a season that the player can progress through.
+
+9.Add a spice rack and jar armory for what is earned in the keep. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

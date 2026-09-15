@@ -1,0 +1,19 @@
+打造一款mountain rescue where a shepherd digs slab slides with a bell-and-probe line，細節如下：
+
+1.Generate five concept images for a mountain rescue where a shepherd digs slab slides with a bell-and-probe line. Keep characters, props, and creatures simple and readable. Explore distinct environments with slab cracks, probe pings, bell echoes, and powder plumes. Aim for the atmosphere of Steep and the systemic variety of Celeste.
+
+2.Build a short, polished rescue day from the attached White Shepherd Col concept. Draw the graphics in code and make the character controllable, with buried bells to dig out. Put bell-and-probe searching at the center of the rescue day, and make the lighting and bell-and-probe searching effects match the selected visual direction.
+
+3.Play through the first rescue day and identify where movement or interactions feel awkward. Improve the rescuer's movement and action animations so actions feel responsive and are easy to follow. Test the rescue day again while preserving the existing bell-and-probe searching interactions.
+
+4.Add experience points to the playable prototype. Award experience for clearing the col, track the total, and show progress clearly in the interface. Play through the rescue day to check that rewards are recorded correctly.
+
+5.Give the rescuer an clearly readable avalanche-transceiver vest. Adjust the rescuer's facing and gear layering for each movement direction, especially when facing upward, so the avalanche-transceiver vest sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make loud bell sweeps find deep bells but trigger slabs past the fracture bell. Keep probe-only searches slab-safe yet finding slowly. Make fracturing snow boom visibly, then test the same day swept loud and probed quiet.
+
+7.Let dug-out caches yield bells, ropes, and cocoa on the snow. Make the finds rest where dug while staying easy to spot and sled out. Test finds swept loud and probed quiet without changing the trigger and slow rules.
+
+8.Expand the playable col into seven distinct rescue faces. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and bell-and-probe searching rules. Connect the rescue faces into a season that the player can progress through.
+
+9.Add a probe set and rescue log for what is earned in the col. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

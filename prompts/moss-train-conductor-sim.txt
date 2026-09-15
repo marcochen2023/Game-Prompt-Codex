@@ -1,0 +1,19 @@
+打造一款rail sim where a conductor grows station gardens with a timetable-and-trowel loop，細節如下：
+
+1.Generate five concept images for a rail sim where a conductor grows station gardens with a timetable-and-trowel loop. Keep characters, props, and creatures simple and readable. Explore distinct environments with petal drift, timetable chimes, steam curls, and platform lanterns. Aim for the atmosphere of Stardew Valley and the systemic variety of Mini Metro.
+
+2.Build a short, polished garden loop from the attached Mossline concept. Draw the graphics in code and make the character controllable, with weeds and delays to prune. Put timetable-and-trowel looping at the center of the garden loop, and make the lighting and timetable-and-trowel looping effects match the selected visual direction.
+
+3.Play through the first garden loop and identify where movement or interactions feel awkward. Improve the conductor's movement and action animations so actions feel responsive and are easy to follow. Test the garden loop again while preserving the existing timetable-and-trowel looping interactions.
+
+4.Add experience points to the playable prototype. Award experience for blooming the mossline, track the total, and show progress clearly in the interface. Play through the garden loop to check that rewards are recorded correctly.
+
+5.Give the conductor an clearly readable ivy-trimmed conductor cap. Adjust the conductor's facing and gear layering for each movement direction, especially when facing upward, so the ivy-trimmed conductor cap sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make express loops bloom towns fast but skip stops past the complaint bell. Keep all-stop loops complaint-free yet blooming slowly. Make skipping boards flash visibly, then test the same loop run express and all-stop.
+
+7.Let bloomed towns leave seeds, tickets, and pies on the platform. Make the gifts rest where left while staying easy to spot and load. Test gifts run express and all-stop without changing the skip and slow rules.
+
+8.Expand the playable line into seven distinct garden stations. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and timetable-and-trowel looping rules. Connect the garden stations into a timetable year that the player can progress through.
+
+9.Add a trowel roll and timetable for what is earned in the line. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

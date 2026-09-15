@@ -1,0 +1,19 @@
+打造一款comedy space opera where a sock captain bluffs warlords with a costume-quick-change teleporter，細節如下：
+
+1.Generate five concept images for a comedy space opera where a sock captain bluffs warlords with a costume-quick-change teleporter. Keep characters, props, and creatures simple and readable. Explore distinct environments with lint nebulas, button glints, dryer-sheet static, and stage-light starfields. Aim for the atmosphere of Portal and the systemic variety of Among Us.
+
+2.Build a short, polished first contact from the attached The Laundry Nebula concept. Draw the graphics in code and make the character controllable, with warlord armadas to bluff. Put quick-change disguising at the center of the first contact, and make the lighting and quick-change disguising effects match the selected visual direction.
+
+3.Play through the first first contact and identify where movement or interactions feel awkward. Improve the captain's movement and action animations so actions feel responsive and are easy to follow. Test the first contact again while preserving the existing quick-change disguising interactions.
+
+4.Add experience points to the playable prototype. Award experience for uniting the nebula, track the total, and show progress clearly in the interface. Play through the first contact to check that rewards are recorded correctly.
+
+5.Give the captain a clearly readable mismatched button eyes. Adjust the captain's facing and gear layering for each movement direction, especially when facing upward, so the mismatched button eyes sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make perfect disguises pass checkpoints but unravel past the lint bell if stared at. Keep plain-sock form honest yet barred from war rooms. Make unraveling seams fuzz visibly, then test the same contact disguised and undisguised.
+
+7.Let bluffed warlords drop medals, lint pearls, and spare socks on the bridge. Make the loot tumble in zero-g while staying easy to spot and grab. Test loot disguised and undisguised without changing the unravel and barred rules.
+
+8.Expand the playable nebula into seven distinct nebula sectors. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and quick-change disguising rules. Connect the nebula sectors into a opera acts that the player can progress through.
+
+9.Add a costume trunk and bluff log for what is earned in the nebula. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

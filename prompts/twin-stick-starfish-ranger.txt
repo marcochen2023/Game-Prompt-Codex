@@ -1,0 +1,19 @@
+打造一款top-down twin-stick shooter where a starfish ranger swaps tide pools to change ammo，細節如下：
+
+1.Generate five concept images for a top-down twin-stick shooter where a starfish ranger swaps tide pools to change ammo. Keep characters, props, and creatures simple and readable. Explore distinct environments with tide slime, bubble trails, bioluminescent plankton, and rippling shallows. Aim for the atmosphere of Pikmin and the systemic variety of Geometry Wars.
+
+2.Build a short, polished reef skirmish from the attached Brineglass Reef concept. Draw the graphics in code and make the character controllable, with crab raiders to repel. Put tide-pool ammo swapping at the center of the reef skirmish, and make the lighting and tide-pool ammo swapping effects match the selected visual direction.
+
+3.Play through the first reef skirmish and identify where movement or interactions feel awkward. Improve the starfish ranger's movement and action animations so actions feel responsive and are easy to follow. Test the reef skirmish again while preserving the existing tide-pool ammo swapping interactions.
+
+4.Add experience points to the playable prototype. Award experience for driving off raiders, track the total, and show progress clearly in the interface. Play through the reef skirmish to check that rewards are recorded correctly.
+
+5.Give the starfish ranger a clearly readable striped signal shell. Adjust the starfish ranger's facing and gear layering for each movement direction, especially when facing upward, so the striped signal shell sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make saltwater pools electrify shots that chain between soaked enemies. Keep freshwater pools safe and non-conductive. Make charged pools fizz brightly, then test the same volley while floating in saltwater and in freshwater.
+
+7.Let tides drag shells, pearls, and debris along the reef floor. Make the objects follow the existing tide simulation while remaining easy to identify and collect. Test drops in a riptide lane and in still pools without changing the saltwater and freshwater rules.
+
+8.Expand the playable reef into seven distinct reef zones. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and tide-pool ammo swapping rules. Connect the reef zones into a drift that the player can progress through.
+
+9.Add a shell and spine armory for what is earned in the reef. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

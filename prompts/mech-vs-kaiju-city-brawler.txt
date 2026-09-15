@@ -1,0 +1,19 @@
+打造一款arena brawler where a salvage mech wrestles kaiju through destructible city blocks，細節如下：
+
+1.Generate five concept images for an arena brawler where a salvage mech wrestles kaiju through destructible city blocks. Keep characters, props, and creatures simple and readable. Explore distinct environments with building debris, plasma arcs, smoke columns, and shattering glass. Aim for the atmosphere of Pacific Rim and the systemic variety of Into the Breach.
+
+2.Build a short, polished city defense from the attached Cinderbay concept. Draw the graphics in code and make the character controllable, with kaiju spawn to topple. Put building-wreckage throwing at the center of the city defense, and make the lighting and building-wreckage throwing effects match the selected visual direction.
+
+3.Play through the first city defense and identify where movement or interactions feel awkward. Improve the mech pilot's movement and action animations so actions feel responsive and are easy to follow. Test the city defense again while preserving the existing building-wreckage throwing interactions.
+
+4.Add experience points to the playable prototype. Award experience for saving civilians, track the total, and show progress clearly in the interface. Play through the city defense to check that rewards are recorded correctly.
+
+5.Give the mech pilot a clearly readable hazard-striped pauldron. Adjust the mech pilot's facing and gear layering for each movement direction, especially when facing upward, so the hazard-striped pauldron sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make water towers burst and douse overheated mech plating for a cooldown. Keep oil-slicked streets flammable so sparks ignite burning ground. Make scorched plating smoke before it fails, then test the same overheat vent beside a water tower and on an oil slick.
+
+7.Let collapsed facades drop girders and concrete the mech can hurl. Make the wreckage obey the existing destruction physics while staying easy to read and grab. Test throws near water towers and on oil streets without changing the cooling and ignition rules.
+
+8.Expand the playable coastline into seven distinct city wards. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and building-wreckage throwing rules. Connect the city wards into a campaign that the player can progress through.
+
+9.Add a chassis and reactor lab for what is earned in the coastline. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

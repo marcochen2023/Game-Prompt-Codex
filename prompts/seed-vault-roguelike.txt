@@ -1,0 +1,19 @@
+打造一款seed roguelike where a vaultkeeper plants relic seeds with a season-in-a-bottle greenhouse，細節如下：
+
+1.Generate five concept images for a seed roguelike where a vaultkeeper plants relic seeds with a season-in-a-bottle greenhouse. Keep characters, props, and creatures simple and readable. Explore distinct environments with seed bursts, bottle seasons, soil crumbs, and sun shafts. Aim for the atmosphere of Hades and the systemic variety of Stardew Valley.
+
+2.Build a short, polished vault run from the attached Thousandseed concept. Draw the graphics in code and make the character controllable, with blight shades to weed out. Put bottle-season planting at the center of the vault run, and make the lighting and bottle-season planting effects match the selected visual direction.
+
+3.Play through the first vault run and identify where movement or interactions feel awkward. Improve the vaultkeeper's movement and action animations so actions feel responsive and are easy to follow. Test the vault run again while preserving the existing bottle-season planting interactions.
+
+4.Add experience points to the playable prototype. Award experience for filling the thousandseed, track the total, and show progress clearly in the interface. Play through the vault run to check that rewards are recorded correctly.
+
+5.Give the vaultkeeper a clearly readable seed-packet bandolier. Adjust the vaultkeeper's facing and gear layering for each movement direction, especially when facing upward, so the seed-packet bandolier sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make summer bottles fruit fast but parch past the wilt bell. Keep spring bottles wilt-safe yet fruiting slowly. Make wilting leaves crisp visibly, then test the same run bottled summer and bottled spring.
+
+7.Let weeded shades drop seeds, labels, and trowels in the rows. Make the finds rest where they fall while staying easy to spot and vault. Test finds bottled summer and bottled spring without changing the parch and slow rules.
+
+8.Expand the playable vault into seven distinct vault wings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and bottle-season planting rules. Connect the vault wings into a growing year that the player can progress through.
+
+9.Add a seed index and bottle shelf for what is earned in the vault. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

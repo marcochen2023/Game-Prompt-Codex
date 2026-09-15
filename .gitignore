@@ -1,0 +1,16 @@
+# ── game-prompts ─────────────────────────────────────────────
+# 本機自訂資料（後端寫入，不要進版控；每個人各長各的）
+_gen/custom.json
+
+# 作業系統 / 編輯器雜物
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# 相依與暫存
+node_modules/
+*.log

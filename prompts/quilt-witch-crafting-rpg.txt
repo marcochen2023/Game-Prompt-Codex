@@ -1,0 +1,19 @@
+打造一款cozy crafting RPG where a quilt witch stitches spells with a patchwork-grid loom，細節如下：
+
+1.Generate five concept images for a cozy crafting RPG where a quilt witch stitches spells with a patchwork-grid loom. Keep characters, props, and creatures simple and readable. Explore distinct environments with patchwork glow, thread trails, button glints, and hearth embers. Aim for the atmosphere of Stardew Valley and the systemic variety of Gris.
+
+2.Build a short, polished patch quest from the attached Patchlight Hollow concept. Draw the graphics in code and make the character controllable, with unraveled strays to mend. Put patchwork-grid stitching at the center of the patch quest, and make the lighting and patchwork-grid stitching effects match the selected visual direction.
+
+3.Play through the first patch quest and identify where movement or interactions feel awkward. Improve the witch's movement and action animations so actions feel responsive and are easy to follow. Test the patch quest again while preserving the existing patchwork-grid stitching interactions.
+
+4.Add experience points to the playable prototype. Award experience for quilt the dawn blanket, track the total, and show progress clearly in the interface. Play through the patch quest to check that rewards are recorded correctly.
+
+5.Give the witch a clearly readable thimble crown. Adjust the witch's facing and gear layering for each movement direction, especially when facing upward, so the thimble crown sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make moonlit stitches hold strong but fray past the pull bell if rushed. Keep hearthside stitches slow yet unfraying. Make fraying seams buzz visibly, then test the same quest stitched moonlit and hearthside.
+
+7.Let mended strays leave buttons, scraps, and thimbles on the quilt. Make the gifts rest where they land while staying easy to spot and pocket. Test gifts stitched moonlit and hearthside without changing the fray and slow rules.
+
+8.Expand the playable hollow into seven distinct quilt districts. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and patchwork-grid stitching rules. Connect the quilt districts into a year that the player can progress through.
+
+9.Add a button jar and loom chart for what is earned in the hollow. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

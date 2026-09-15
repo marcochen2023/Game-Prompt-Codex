@@ -1,0 +1,19 @@
+打造一款2D shadow-puppet adventure where a cutter folds light with a lantern-mask stealth system，細節如下：
+
+1.Generate five concept images for a 2D shadow-puppet adventure where a cutter folds light with a lantern-mask stealth system. Keep characters, props, and creatures simple and readable. Explore distinct environments with cut-paper silhouettes, lantern halos, scissor snips, and screen ripples. Aim for the atmosphere of Gris and the systemic variety of Mark of the Ninja.
+
+2.Build a short, polished lantern act from the attached Paper Lantern Revolt concept. Draw the graphics in code and make the character controllable, with paper magistrates to evade. Put lantern-mask stealth at the center of the lantern act, and make the lighting and lantern-mask stealth effects match the selected visual direction.
+
+3.Play through the first lantern act and identify where movement or interactions feel awkward. Improve the cutter's movement and action animations so actions feel responsive and are easy to follow. Test the lantern act again while preserving the existing lantern-mask stealth interactions.
+
+4.Add experience points to the playable prototype. Award experience for restoring the play, track the total, and show progress clearly in the interface. Play through the lantern act to check that rewards are recorded correctly.
+
+5.Give the cutter a clearly readable fox-cut paper mask. Adjust the cutter's facing and gear layering for each movement direction, especially when facing upward, so the fox-cut paper mask sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make bright screens hide the cutter fully but burn mask oil while exposed. Keep dim screens oil-safe yet half-seen and risky. Make half-seen edges fray visibly, then test the same act under full lantern and in dim glow.
+
+7.Let folded magistrates drop masks, cords, and play scripts backstage. Make the drops lie where they fall while staying easy to spot and pocket. Test drops under full lantern and dim glow without changing the hiding and oil rules.
+
+8.Expand the playable playhouse into seven distinct lantern acts. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and lantern-mask stealth rules. Connect the lantern acts into a tour that the player can progress through.
+
+9.Add a mask chest and cutting kit for what is earned in the playhouse. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

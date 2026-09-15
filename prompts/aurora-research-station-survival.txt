@@ -1,0 +1,19 @@
+打造一款arctic survival where a researcher routes generator heat through aurora storms，細節如下：
+
+1.Generate five concept images for an arctic survival where a researcher routes generator heat through aurora storms. Keep characters, props, and creatures simple and readable. Explore distinct environments with aurora ribbons, breath fog, generator glow, and snow scour. Aim for the atmosphere of The Long Dark and the systemic variety of Frostpunk.
+
+2.Build a short, polished storm night from the attached Whiteout Point concept. Draw the graphics in code and make the character controllable, with frostbite shades to outlast. Put generator-heat routing at the center of the storm night, and make the lighting and generator-heat routing effects match the selected visual direction.
+
+3.Play through the first storm night and identify where movement or interactions feel awkward. Improve the researcher's movement and action animations so actions feel responsive and are easy to follow. Test the storm night again while preserving the existing generator-heat routing interactions.
+
+4.Add experience points to the playable prototype. Award experience for surviving the season, track the total, and show progress clearly in the interface. Play through the storm night to check that rewards are recorded correctly.
+
+5.Give the researcher a clearly readable fur-trimmed parka hood. Adjust the researcher's facing and gear layering for each movement direction, especially when facing upward, so the fur-trimmed parka hood sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make aurora storms charge batteries fast but scramble sensors while the sky burns. Keep whiteout calm safe for sensors yet freezing twice as fast. Make scrambled screens fizz green, then test the same night under aurora and in whiteout.
+
+7.Let supply drops scatter batteries, cocoa, and fuses across the drifts. Make the crates half-bury where they land while staying easy to spot and dig out. Test drops under aurora and in whiteout without changing the charge and freeze rules.
+
+8.Expand the playable station into seven distinct research outposts. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and generator-heat routing rules. Connect the research outposts into a expedition that the player can progress through.
+
+9.Add a lab bench and heat map for what is earned in the station. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

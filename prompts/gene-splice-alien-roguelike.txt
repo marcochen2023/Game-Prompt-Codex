@@ -1,0 +1,19 @@
+打造一款roguelike where a gene splicer drafts mutations from feral alien splices，細節如下：
+
+1.Generate five concept images for a roguelike where a gene splicer drafts mutations from feral alien splices. Keep characters, props, and creatures simple and readable. Explore distinct environments with gene goo, membrane pulses, acid hiss, and bioluminescent veins. Aim for the atmosphere of Dead Space and the systemic variety of Prey.
+
+2.Build a short, polished splice trial from the attached Helix Maw concept. Draw the graphics in code and make the character controllable, with feral splices to subdue. Put gene-draft mutation picks at the center of the splice trial, and make the lighting and gene-draft mutation picks effects match the selected visual direction.
+
+3.Play through the first splice trial and identify where movement or interactions feel awkward. Improve the splicer's movement and action animations so actions feel responsive and are easy to follow. Test the splice trial again while preserving the existing gene-draft mutation picks interactions.
+
+4.Add experience points to the playable prototype. Award experience for harvesting helixes, track the total, and show progress clearly in the interface. Play through the splice trial to check that rewards are recorded correctly.
+
+5.Give the splicer a clearly readable triple-lens visor. Adjust the splicer's facing and gear layering for each movement direction, especially when facing upward, so the triple-lens visor sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make acid blood pools melt armor of anything standing in them. Keep alkaline vents neutralizing acid into safe glass. Make melting pools bubble green, then test the same fight standing in acid and on a vent plate.
+
+7.Let harvested gene samples skitter and must be pinned before bagging. Make the samples squirm with real physics while staying easy to read and pin. Test samples near acid pools and on vent plates without changing the acid and alkaline rules.
+
+8.Expand the playable hive into seven distinct helix chambers. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and gene-draft mutation picks rules. Connect the helix chambers into a dive that the player can progress through.
+
+9.Add a gene helix board for what is earned in the hive. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

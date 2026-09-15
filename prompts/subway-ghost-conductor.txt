@@ -1,0 +1,19 @@
+打造一款first-person horror where a night conductor guides a ghost train with a lantern-signal system，細節如下：
+
+1.Generate five concept images for a first-person horror where a night conductor guides a ghost train with a lantern-signal system. Keep characters, props, and creatures simple and readable. Explore distinct environments with flickering fluorescents, breath fog, tunnel wind, and signal-lamp pools. Aim for the atmosphere of P.T. and the systemic variety of Outer Wilds.
+
+2.Build a short, polished night shift from the attached Last Line concept. Draw the graphics in code and make the character controllable, with platform wraiths to calm. Put lantern-signal routing at the center of the night shift, and make the lighting and lantern-signal routing effects match the selected visual direction.
+
+3.Play through the first night shift and identify where movement or interactions feel awkward. Improve the conductor's movement and action animations so actions feel responsive and are easy to follow. Test the night shift again while preserving the existing lantern-signal routing interactions.
+
+4.Add experience points to the playable prototype. Award experience for delivering lost souls, track the total, and show progress clearly in the interface. Play through the night shift to check that rewards are recorded correctly.
+
+5.Give the conductor a clearly readable brass ticket puncher. Adjust the conductor's facing and gear layering for each movement direction, especially when facing upward, so the brass ticket puncher sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make lit carriages calm wraiths but drain the lantern oil while bright. Keep dark carriages oil-safe yet restless and cold. Make calm wraiths settle into seats, then test the same stop with lamps high and shuttered.
+
+7.Let forgotten tickets, umbrellas, and lunchboxes slide when the train brakes. Make the items obey the existing carriage physics while staying easy to spot and return. Test items with lamps high and shuttered without changing the calm and oil rules.
+
+8.Expand the playable line into seven distinct haunted stations. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and lantern-signal routing rules. Connect the haunted stations into a night loop that the player can progress through.
+
+9.Add a lost-property log and signal kit for what is earned in the line. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

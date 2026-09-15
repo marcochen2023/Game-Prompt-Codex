@@ -1,0 +1,19 @@
+打造一款rhythm exorcist where a teen banishes mall ghosts with a dance-pad sigil，細節如下：
+
+1.Generate five concept images for a rhythm exorcist where a teen banishes mall ghosts with a dance-pad sigil. Keep characters, props, and creatures simple and readable. Explore distinct environments with sigil rings, neon flicker, coin fountains, and bass thumps. Aim for the atmosphere of Hi-Fi Rush and the systemic variety of Luigis Mansion.
+
+2.Build a short, polished food-court rite from the attached Neon Food Court concept. Draw the graphics in code and make the character controllable, with mall ghosts to banish. Put dance-pad sigil stepping at the center of the food-court rite, and make the lighting and dance-pad sigil stepping effects match the selected visual direction.
+
+3.Play through the first food-court rite and identify where movement or interactions feel awkward. Improve the teen's movement and action animations so actions feel responsive and are easy to follow. Test the food-court rite again while preserving the existing dance-pad sigil stepping interactions.
+
+4.Add experience points to the playable prototype. Award experience for closing every rift, track the total, and show progress clearly in the interface. Play through the food-court rite to check that rewards are recorded correctly.
+
+5.Give the teen an clearly readable arcade-token choker. Adjust the teen's facing and gear layering for each movement direction, especially when facing upward, so the arcade-token choker sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make full-combo sigils banish fast but trip past the tangle bell on missed steps. Keep simple steps trip-safe yet banishing slowly. Make tangling cords spark visibly, then test the same rite danced full-combo and stepped simple.
+
+7.Let banished ghosts drop tokens, coupons, and lost phones on the tiles. Make the loot skid where it lands while staying easy to spot and feed the arcade. Test loot danced full-combo and stepped simple without changing the trip and slow rules.
+
+8.Expand the playable mall into seven distinct mall wings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and dance-pad sigil stepping rules. Connect the mall wings into a season that the player can progress through.
+
+9.Add a sigil pad and token tin for what is earned in the mall. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款top-down pixel dungeon crawler with real-time combat and a procedural fluid engine，細節如下：
+
+1.Generate five concept images for a top-down pixel dungeon crawler with real-time combat and a procedural fluid engine. Keep characters, props, and creatures simple and readable. Explore distinct environments with reactive water, blood particles, metal sparks, and responsive lighting. Aim for the atmosphere of Animal Well and the systemic variety of Caves of Qud.
+
+2.Build a short, polished combat encounter from the attached Tideglass Caverns concept. Draw the graphics in code and make the character controllable, with enemies to fight. Put dynamic fluid at the center of the combat encounter, and make the lighting and dynamic fluid effects match the selected visual direction.
+
+3.Play through the first combat encounter and identify where movement or interactions feel awkward. Improve the adventurer's movement and action animations so actions feel responsive and are easy to follow. Test the combat encounter again while preserving the existing dynamic fluid interactions.
+
+4.Add experience points to the playable prototype. Award experience for defeating enemies, track the total, and show progress clearly in the interface. Play through the combat encounter to check that rewards are recorded correctly.
+
+5.Give the adventurer a clearly readable red cape. Adjust the adventurer's facing and gear layering for each movement direction, especially when facing upward, so the red cape sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make electrical attacks propagate through connected water and damage creatures in the charged area. Keep stone surfaces safe from water-borne electricity. Make the charged water readable, then test the same attack with the player standing in water and on stone.
+
+7.Let water currents move physical loot and environmental debris. Make the objects respond to the existing fluid simulation while remaining easy to identify and collect. Test drops in flowing water and on dry ground without changing the electricity and safe-stone rules.
+
+8.Expand the playable dungeon into seven distinct floor themes. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and dynamic fluid rules. Connect the floor themes into a descent that the player can progress through.
+
+9.Add an inventory and equipment system for what is earned in the dungeon. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

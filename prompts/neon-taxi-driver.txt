@@ -1,0 +1,19 @@
+打造一款night driving sim where a cabbie chains fares with a rain-slick drift meter，細節如下：
+
+1.Generate five concept images for a night driving sim where a cabbie chains fares with a rain-slick drift meter. Keep characters, props, and creatures simple and readable. Explore distinct environments with neon reflections, rain streaks, fare pings, and wiper arcs. Aim for the atmosphere of Crazy Taxi and the systemic variety of Need for Speed.
+
+2.Build a short, polished night shift from the attached Neon Mile concept. Draw the graphics in code and make the character controllable, with rival cabs to outfare. Put drift-meter fare chaining at the center of the night shift, and make the lighting and drift-meter fare chaining effects match the selected visual direction.
+
+3.Play through the first night shift and identify where movement or interactions feel awkward. Improve the cabbie's movement and action animations so actions feel responsive and are easy to follow. Test the night shift again while preserving the existing drift-meter fare chaining interactions.
+
+4.Add experience points to the playable prototype. Award experience for topping the leaderboard, track the total, and show progress clearly in the interface. Play through the night shift to check that rewards are recorded correctly.
+
+5.Give the cabbie a clearly readable checkered cab cap. Adjust the cabbie's facing and gear layering for each movement direction, especially when facing upward, so the checkered cab cap sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make rain-slick avenues boost drift fares but hydroplane past the grip warning. Keep parking-garage decks grippy yet fareless and slow. Make sliding tires smoke blue, then test the same run on rain avenues and in a dry garage.
+
+7.Let rushed fares drop phones, umbrellas, and tips at the curb. Make the items glint under neon while staying easy to spot and return. Test drops on rain avenues and in dry garages without changing the drift and grip rules.
+
+8.Expand the playable mile into seven distinct city wards. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and drift-meter fare chaining rules. Connect the city wards into a meter year that the player can progress through.
+
+9.Add a garage and fare atlas for what is earned in the mile. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

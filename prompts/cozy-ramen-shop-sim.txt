@@ -1,0 +1,19 @@
+打造一款cozy first-person ramen shop sim built around broth-timing rhythm，細節如下：
+
+1.Generate five concept images for a cozy first-person ramen shop sim built around broth-timing rhythm. Keep characters, props, and creatures simple and readable. Explore distinct environments with steam curls, broth shimmer, lantern glow, and noodle pull arcs. Aim for the atmosphere of Stardew Valley and the systemic variety of Diner Dash.
+
+2.Build a short, polished opening night from the attached Steam Alley Stall concept. Draw the graphics in code and make the character controllable, with hungry regulars to satisfy. Put broth-timing rhythm at the center of the opening night, and make the lighting and broth-timing rhythm effects match the selected visual direction.
+
+3.Play through the first opening night and identify where movement or interactions feel awkward. Improve the shopkeeper's movement and action animations so actions feel responsive and are easy to follow. Test the opening night again while preserving the existing broth-timing rhythm interactions.
+
+4.Add experience points to the playable prototype. Award experience for serving happy regulars, track the total, and show progress clearly in the interface. Play through the opening night to check that rewards are recorded correctly.
+
+5.Give the shopkeeper a clearly readable flour-dusted headband. Adjust the shopkeeper's facing and gear layering for each movement direction, especially when facing upward, so the flour-dusted headband sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make broth served at peak simmer earn perfect-slurp bonuses and tips. Keep scorched pots ruining the batch until scrubbed clean. Make ready broth gleam at the surface, then test the same bowl timed at peak and served scorched.
+
+7.Let dropped toppings and coins scatter where the rush knocks them. Make the items bounce on the existing floor physics while staying easy to spot and grab. Test spills at peak rush and in a calm hour without changing the simmer and scorch rules.
+
+8.Expand the playable alley into seven distinct shopping streets. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and broth-timing rhythm rules. Connect the shopping streets into a food-stall tour that the player can progress through.
+
+9.Add a recipe book and utensils for what is earned in the alley. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

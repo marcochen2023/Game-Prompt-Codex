@@ -1,0 +1,19 @@
+打造一款roguelike where a gambler mage overcharges spells by staking dice，細節如下：
+
+1.Generate five concept images for a roguelike where a gambler mage overcharges spells by staking dice. Keep characters, props, and creatures simple and readable. Explore distinct environments with dice sparks, felt-table glow, chip trails, and chandelier flicker. Aim for the atmosphere of Hades and the systemic variety of Slay the Spire.
+
+2.Build a short, polished gamble bout from the attached Gilded Odds concept. Draw the graphics in code and make the character controllable, with debt collectors to outcast. Put dice-overcharge casting at the center of the gamble bout, and make the lighting and dice-overcharge casting effects match the selected visual direction.
+
+3.Play through the first gamble bout and identify where movement or interactions feel awkward. Improve the gambler mage's movement and action animations so actions feel responsive and are easy to follow. Test the gamble bout again while preserving the existing dice-overcharge casting interactions.
+
+4.Add experience points to the playable prototype. Award experience for banishing collectors, track the total, and show progress clearly in the interface. Play through the gamble bout to check that rewards are recorded correctly.
+
+5.Give the gambler mage a clearly readable loaded-die earring. Adjust the gambler mage's facing and gear layering for each movement direction, especially when facing upward, so the loaded-die earring sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make chained wins raise the stake multiplier but swell backlash on a bust. Keep banked winnings locked safe once cashed at the altar. Make swollen dice glow hotter each chain, then test the same cast at a triple chain and right after banking.
+
+7.Let felled collectors drop chips and loose dice that tumble to rest. Make the drops settle with real tumble while staying easy to read and claim. Test drops on a hot streak and after banking without changing the stake and banking rules.
+
+8.Expand the playable casino into seven distinct casino floors. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and dice-overcharge casting rules. Connect the casino floors into a climb that the player can progress through.
+
+9.Add a spell-dice collection for what is earned in the casino. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

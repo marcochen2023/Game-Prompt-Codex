@@ -1,0 +1,19 @@
+打造一款shop sim where a robot serves memory-tea with a steep-and-polish counter，細節如下：
+
+1.Generate five concept images for a shop sim where a robot serves memory-tea with a steep-and-polish counter. Keep characters, props, and creatures simple and readable. Explore distinct environments with steam curls, polish shine, gear ticks, and rain on glass. Aim for the atmosphere of Stardew Valley and the systemic variety of VA-11 Hall-A.
+
+2.Build a short, polished tea shift from the attached The Copper Kettle concept. Draw the graphics in code and make the character controllable, with lonely regulars to warm. Put steep-and-polish serving at the center of the tea shift, and make the lighting and steep-and-polish serving effects match the selected visual direction.
+
+3.Play through the first tea shift and identify where movement or interactions feel awkward. Improve the robot's movement and action animations so actions feel responsive and are easy to follow. Test the tea shift again while preserving the existing steep-and-polish serving interactions.
+
+4.Add experience points to the playable prototype. Award experience for earning five kettles, track the total, and show progress clearly in the interface. Play through the tea shift to check that rewards are recorded correctly.
+
+5.Give the robot a clearly readable cracked porcelain faceplate. Adjust the robot's facing and gear layering for each movement direction, especially when facing upward, so the cracked porcelain faceplate sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make memory blends warm hearts fast but glitch past the static bell. Keep house blends glitch-safe yet warming slowly. Make glitching optics fizz visibly, then test the same shift poured memory and house-steady.
+
+7.Let warmed regulars leave stories, gears, and tips on the counter. Make the keepsakes rest where left while staying easy to read and keep. Test keepsakes poured memory and house-steady without changing the glitch and slow rules.
+
+8.Expand the playable street into seven distinct tea rooms. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and steep-and-polish serving rules. Connect the tea rooms into a year that the player can progress through.
+
+9.Add a blend book and polish kit for what is earned in the street. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款serene safari where a spotter catalogs cloud whales with a song-echo tracker，細節如下：
+
+1.Generate five concept images for a serene safari where a spotter catalogs cloud whales with a song-echo tracker. Keep characters, props, and creatures simple and readable. Explore distinct environments with whale song rings, cloud foam, sun dogs, and feather drift. Aim for the atmosphere of Abzu and the systemic variety of Pokemon Snap.
+
+2.Build a short, polished safari drift from the attached Blue Drift concept. Draw the graphics in code and make the character controllable, with sky poachers to photograph down. Put song-echo tracking at the center of the safari drift, and make the lighting and song-echo tracking effects match the selected visual direction.
+
+3.Play through the first safari drift and identify where movement or interactions feel awkward. Improve the spotter's movement and action animations so actions feel responsive and are easy to follow. Test the safari drift again while preserving the existing song-echo tracking interactions.
+
+4.Add experience points to the playable prototype. Award experience for completing the catalog, track the total, and show progress clearly in the interface. Play through the safari drift to check that rewards are recorded correctly.
+
+5.Give the spotter a clearly readable whale-song brass horn. Adjust the spotter's facing and gear layering for each movement direction, especially when facing upward, so the whale-song brass horn sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make echo songs reveal whales far but startle calves into diving. Keep silent drifts calf-safe yet blind past the near clouds. Make diving wakes bloom white, then test the same drift sung loud and fully silent.
+
+7.Let passing whales shed baleen, feathers, and lost cameras along the drift. Make the drift carry them gently while staying easy to spot and net. Test drift sung loud and fully silent without changing the reveal and startle rules.
+
+8.Expand the playable drift into seven distinct sky regions. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and song-echo tracking rules. Connect the sky regions into a migration that the player can progress through.
+
+9.Add a catalog and echo horn for what is earned in the drift. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

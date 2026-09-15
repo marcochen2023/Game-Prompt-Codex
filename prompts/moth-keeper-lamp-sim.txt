@@ -1,0 +1,19 @@
+打造一款night sim where a keeper tends lighthouse moths with a dim-and-amber lamp，細節如下：
+
+1.Generate five concept images for a night sim where a keeper tends lighthouse moths with a dim-and-amber lamp. Keep characters, props, and creatures simple and readable. Explore distinct environments with wing dust, lamp halos, night blooms, and foghorn moans. Aim for the atmosphere of Viva Pinata and the systemic variety of Hollow Knight.
+
+2.Build a short, polished moth night from the attached Amberwatch concept. Draw the graphics in code and make the character controllable, with lamp-crazed swarms to settle. Put dim-and-amber tending at the center of the moth night, and make the lighting and dim-and-amber tending effects match the selected visual direction.
+
+3.Play through the first moth night and identify where movement or interactions feel awkward. Improve the keeper's movement and action animations so actions feel responsive and are easy to follow. Test the moth night again while preserving the existing dim-and-amber tending interactions.
+
+4.Add experience points to the playable prototype. Award experience for raising the amberwatch, track the total, and show progress clearly in the interface. Play through the moth night to check that rewards are recorded correctly.
+
+5.Give the keeper a clearly readable moth-wing cloak. Adjust the keeper's facing and gear layering for each movement direction, especially when facing upward, so the moth-wing cloak sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make bright lamps draw rare moths but frenzy swarms past the flutter bell. Keep amber-dim lamps frenzy-safe yet drawing slowly. Make frenzied wings blur visibly, then test the same night lamped bright and kept amber-dim.
+
+7.Let settled swarms leave scales, cocoons, and maps on the sill. Make the gifts rest where they land while staying easy to spot and jar. Test gifts lamped bright and kept amber-dim without changing the frenzy and slow rules.
+
+8.Expand the playable watch into seven distinct lamp tiers. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and dim-and-amber tending rules. Connect the lamp tiers into a season that the player can progress through.
+
+9.Add a cocoon shelf and lamp oils for what is earned in the watch. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

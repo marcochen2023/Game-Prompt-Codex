@@ -1,0 +1,19 @@
+打造一款coastal RTS where a warden chains lighthouse beams with a storm-charge grid，細節如下：
+
+1.Generate five concept images for a coastal RTS where a warden chains lighthouse beams with a storm-charge grid. Keep characters, props, and creatures simple and readable. Explore distinct environments with beam sweeps, storm arcs, wave crash, and gull alarms. Aim for the atmosphere of They Are Billions and the systemic variety of Frostpunk.
+
+2.Build a short, polished storm defense from the attached Greywidow Chain concept. Draw the graphics in code and make the character controllable, with drowned hulls to burn back. Put lighthouse-beam chaining at the center of the storm defense, and make the lighting and lighthouse-beam chaining effects match the selected visual direction.
+
+3.Play through the first storm defense and identify where movement or interactions feel awkward. Improve the warden's movement and action animations so actions feel responsive and are easy to follow. Test the storm defense again while preserving the existing lighthouse-beam chaining interactions.
+
+4.Add experience points to the playable prototype. Award experience for holding the chain, track the total, and show progress clearly in the interface. Play through the storm defense to check that rewards are recorded correctly.
+
+5.Give the warden a clearly readable storm-grey warden coat. Adjust the warden's facing and gear layering for each movement direction, especially when facing upward, so the storm-grey warden coat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make chained beams burn hulls fast but brown out past the surge bell. Keep lone beams surge-safe yet burning slowly. Make surging lamps flicker visibly, then test the same defense chained wide and lit lone.
+
+7.Let burned hulls spill timbers, oil, and bells on the rocks. Make the wreck rest where waves leave it while staying easy to spot and haul. Test wreck chained wide and lit lone without changing the brownout and slow rules.
+
+8.Expand the playable coast into seven distinct lighthouse reaches. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and lighthouse-beam chaining rules. Connect the lighthouse reaches into a storm year that the player can progress through.
+
+9.Add a beam chart and oil reserve for what is earned in the coast. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

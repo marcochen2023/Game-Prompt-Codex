@@ -1,0 +1,19 @@
+打造一款physics wrestler where a scrapyard mech suplexes rivals with a magnet-grip core，細節如下：
+
+1.Generate five concept images for a physics wrestler where a scrapyard mech suplexes rivals with a magnet-grip core. Keep characters, props, and creatures simple and readable. Explore distinct environments with magnet arcs, scrap showers, oil slicks, and floodlight glare. Aim for the atmosphere of Gang Beasts and the systemic variety of Armored Core.
+
+2.Build a short, polished scrap bout from the attached Rustbelt Rumble concept. Draw the graphics in code and make the character controllable, with rival rigs to ring-out. Put magnet-grip throwing at the center of the scrap bout, and make the lighting and magnet-grip throwing effects match the selected visual direction.
+
+3.Play through the first scrap bout and identify where movement or interactions feel awkward. Improve the wrestler's movement and action animations so actions feel responsive and are easy to follow. Test the scrap bout again while preserving the existing magnet-grip throwing interactions.
+
+4.Add experience points to the playable prototype. Award experience for taking the belt, track the total, and show progress clearly in the interface. Play through the scrap bout to check that rewards are recorded correctly.
+
+5.Give the wrestler a clearly readable crane-hook shoulder. Adjust the wrestler's facing and gear layering for each movement direction, especially when facing upward, so the crane-hook shoulder sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make magnet grips hold throws tight but overheat past the slag bell. Keep cold grips safe yet easy to break. Make overheating cores glow at the seams, then test the same bout gripped hot and stone cold.
+
+7.Let rung-out rigs shed plates, coils, and lucky bolts ringside. Make the debris clang where it lands while staying easy to spot and salvage. Test debris from hot bouts and cold bouts without changing the overheat and break rules.
+
+8.Expand the playable yard into seven distinct scrap rings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and magnet-grip throwing rules. Connect the scrap rings into a circuit that the player can progress through.
+
+9.Add a magnet lab and scrap ledger for what is earned in the yard. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

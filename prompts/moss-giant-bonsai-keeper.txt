@@ -1,0 +1,19 @@
+打造一款meditative sim where a keeper prunes a walking moss giant with a seasonal-shear calendar，細節如下：
+
+1.Generate five concept images for a meditative sim where a keeper prunes a walking moss giant with a seasonal-shear calendar. Keep characters, props, and creatures simple and readable. Explore distinct environments with petal fall, shear snips, firefly nights, and root rumbles. Aim for the atmosphere of Stardew Valley and the systemic variety of Shadow of the Colossus.
+
+2.Build a short, polished first pruning from the attached The Ambling Green concept. Draw the graphics in code and make the character controllable, with rot grubs to pick off. Put seasonal-shear pruning at the center of the first pruning, and make the lighting and seasonal-shear pruning effects match the selected visual direction.
+
+3.Play through the first first pruning and identify where movement or interactions feel awkward. Improve the keeper's movement and action animations so actions feel responsive and are easy to follow. Test the first pruning again while preserving the existing seasonal-shear pruning interactions.
+
+4.Add experience points to the playable prototype. Award experience for raising the green, track the total, and show progress clearly in the interface. Play through the first pruning to check that rewards are recorded correctly.
+
+5.Give the keeper a clearly readable moss-woven sun hat. Adjust the keeper's facing and gear layering for each movement direction, especially when facing upward, so the moss-woven sun hat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make spring shears regrow branches lush but bleed sap past the drip bell. Keep winter shears sap-safe yet slow to regrow. Make bleeding cuts bead visibly, then test the same pruning in spring flush and deep winter.
+
+7.Let pruned branches drop cuttings, grubs, and seed pods on the trail. Make the drops rest where they fall while staying easy to spot and pot. Test drops in spring flush and deep winter without changing the bleed and slow rules.
+
+8.Expand the playable trail into seven distinct walking provinces. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and seasonal-shear pruning rules. Connect the walking provinces into a year that the player can progress through.
+
+9.Add a shear roll and growth journal for what is earned in the trail. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

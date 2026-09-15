@@ -1,0 +1,19 @@
+打造一款deckbuilding roguelike where an engineer defends a boiler-driven war train，細節如下：
+
+1.Generate five concept images for a deckbuilding roguelike where an engineer defends a boiler-driven war train. Keep characters, props, and creatures simple and readable. Explore distinct environments with coal glow, steam bursts, track sparks, and signal-lamp glare. Aim for the atmosphere of Slay the Spire and the systemic variety of Frostpunk.
+
+2.Build a short, polished rail defense from the attached Emberline Express concept. Draw the graphics in code and make the character controllable, with rail bandits to repel. Put track-switch routing combat at the center of the rail defense, and make the lighting and track-switch routing combat effects match the selected visual direction.
+
+3.Play through the first rail defense and identify where movement or interactions feel awkward. Improve the engineer's movement and action animations so actions feel responsive and are easy to follow. Test the rail defense again while preserving the existing track-switch routing combat interactions.
+
+4.Add experience points to the playable prototype. Award experience for holding the line, track the total, and show progress clearly in the interface. Play through the rail defense to check that rewards are recorded correctly.
+
+5.Give the engineer a clearly readable striped conductor cap. Adjust the engineer's facing and gear layering for each movement direction, especially when facing upward, so the striped conductor cap sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make boiler pressure empower attack cards but risk blowout past the red needle. Keep vented steam safe yet discarding a card as the cost. Make the gauge needle tremble near red, then test the same hand fired hot and fully vented.
+
+7.Let wrecked bandits drop coal and spare rivets along the embankment. Make the drops rattle to rest on the existing track physics while staying easy to spot and shovel. Test drops at full pressure and fully vented without changing the pressure and vent rules.
+
+8.Expand the playable railway into seven distinct rail regions. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and track-switch routing combat rules. Connect the rail regions into a journey that the player can progress through.
+
+9.Add an engine deck and stoker crew for what is earned in the railway. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

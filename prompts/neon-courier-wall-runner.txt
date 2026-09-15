@@ -1,0 +1,19 @@
+打造一款third-person neon courier chaining wall-runs across a rain-slicked megacity，細節如下：
+
+1.Generate five concept images for a third-person neon courier chaining wall-runs across a rain-slicked megacity. Keep characters, props, and creatures simple and readable. Explore distinct environments with neon reflections, rain streaks, holographic arrows, and puddle ripples. Aim for the atmosphere of Mirror's Edge and the systemic variety of Jet Set Radio.
+
+2.Build a short, polished delivery dash from the attached Glassrain Ward concept. Draw the graphics in code and make the character controllable, with patrol drones to outrun. Put wall-run momentum chaining at the center of the delivery dash, and make the lighting and wall-run momentum chaining effects match the selected visual direction.
+
+3.Play through the first delivery dash and identify where movement or interactions feel awkward. Improve the courier's movement and action animations so actions feel responsive and are easy to follow. Test the delivery dash again while preserving the existing wall-run momentum chaining interactions.
+
+4.Add experience points to the playable prototype. Award experience for completing deliveries, track the total, and show progress clearly in the interface. Play through the delivery dash to check that rewards are recorded correctly.
+
+5.Give the courier a clearly readable light-trail jacket. Adjust the courier's facing and gear layering for each movement direction, especially when facing upward, so the light-trail jacket sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make rainwater pools conduct stun charge from damaged drones across the street. Keep raised dry rails insulated and safe to grind. Make charged puddles flicker cyan, then test the same grind through a flooded alley and along a dry rail.
+
+7.Let storm gusts push loose parcels, flyers, and drones off rhythm. Make the objects react to the existing gust simulation while staying easy to read and intercept. Test pickups in a gust corridor and on calm roofs without changing the flood and dry-rail rules.
+
+8.Expand the playable city into seven distinct city districts. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and wall-run momentum chaining rules. Connect the city districts into a night shift route that the player can progress through.
+
+9.Add a sneakers and route-mod kit for what is earned in the city. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

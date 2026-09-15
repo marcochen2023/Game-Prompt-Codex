@@ -1,0 +1,19 @@
+打造一款ascension roguelike where a bellhop clears tower floors with weight-based lift puzzles，細節如下：
+
+1.Generate five concept images for an ascension roguelike where a bellhop clears tower floors with weight-based lift puzzles. Keep characters, props, and creatures simple and readable. Explore distinct environments with floor-indicator glow, cable sway, mirror fog, and brass polish. Aim for the atmosphere of Dark Souls and the systemic variety of Hades.
+
+2.Build a short, polished floor landing from the attached The Gloaming Lift concept. Draw the graphics in code and make the character controllable, with floor wardens to dismiss. Put elevator-weight puzzles at the center of the floor landing, and make the lighting and elevator-weight puzzles effects match the selected visual direction.
+
+3.Play through the first floor landing and identify where movement or interactions feel awkward. Improve the bellhop's movement and action animations so actions feel responsive and are easy to follow. Test the floor landing again while preserving the existing elevator-weight puzzles interactions.
+
+4.Add experience points to the playable prototype. Award experience for clearing floors, track the total, and show progress clearly in the interface. Play through the floor landing to check that rewards are recorded correctly.
+
+5.Give the bellhop a clearly readable brass cap badge. Adjust the bellhop's facing and gear layering for each movement direction, especially when facing upward, so the brass cap badge sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make overloading the lift car plunge it a floor but drop heavy wardens off balance. Keep balanced loads granting a smooth express ride upward. Make straining cables groan and spark, then test the same load stacked heavy and balanced light.
+
+7.Let dismissed wardens drop lost luggage that slides when the car jerks. Make the luggage obey the existing car physics while staying easy to spot and claim. Test drops on a plunging car and a smooth car without changing the overload and balance rules.
+
+8.Expand the playable tower into seven distinct tower floors. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and elevator-weight puzzles rules. Connect the tower floors into a ascent that the player can progress through.
+
+9.Add luggage and uniform perks for what is earned in the tower. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

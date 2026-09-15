@@ -1,0 +1,19 @@
+打造一款hex-grid tactics where mushroom knights flank through a living mycelium network，細節如下：
+
+1.Generate five concept images for a hex-grid tactics where mushroom knights flank through a living mycelium network. Keep characters, props, and creatures simple and readable. Explore distinct environments with spore drift, cap bounce, mycelium veins, and rain drips. Aim for the atmosphere of Into the Breach and the systemic variety of Fire Emblem.
+
+2.Build a short, polished spore skirmish from the attached Sporehold concept. Draw the graphics in code and make the character controllable, with blight swarm to encircle. Put mycelium-link flanking at the center of the spore skirmish, and make the lighting and mycelium-link flanking effects match the selected visual direction.
+
+3.Play through the first spore skirmish and identify where movement or interactions feel awkward. Improve the knight captain's movement and action animations so actions feel responsive and are easy to follow. Test the spore skirmish again while preserving the existing mycelium-link flanking interactions.
+
+4.Add experience points to the playable prototype. Award experience for routing the swarm, track the total, and show progress clearly in the interface. Play through the spore skirmish to check that rewards are recorded correctly.
+
+5.Give the knight captain a clearly readable spotted cap helm. Adjust the knight captain's facing and gear layering for each movement direction, especially when facing upward, so the spotted cap helm sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make linked mycelium tiles share flanking bonuses across the whole web. Keep dry stone tiles unlinked so units there fight alone. Make linked tiles pulse softly, then test the same flank from linked loam and from dry stone.
+
+7.Let felled knights drop spores that seed new links where they land. Make the spores drift on the existing damp-air currents while staying easy to read and harvest. Test drops on linked loam and on dry stone without changing the link and dryness rules.
+
+8.Expand the playable grotto into seven distinct grotto tiers. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and mycelium-link flanking rules. Connect the grotto tiers into a descent that the player can progress through.
+
+9.Add a cap and charm barracks for what is earned in the grotto. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

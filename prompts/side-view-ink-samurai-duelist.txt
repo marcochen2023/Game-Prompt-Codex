@@ -1,0 +1,19 @@
+打造一款side-view ink-brush samurai duelist with stance-based blade combat and a wind-blown particle engine，細節如下：
+
+1.Generate five concept images for a side-view ink-brush samurai duelist with stance-based blade combat and a wind-blown particle engine. Keep characters, props, and creatures simple and readable. Explore distinct environments with ink splashes, drifting petals, blade glints, and swaying reeds. Aim for the atmosphere of Ghost of Tsushima and the systemic variety of Sekiro.
+
+2.Build a short, polished duel from the attached Ashen Reed Fields concept. Draw the graphics in code and make the character controllable, with rival swordsmen to face. Put stance-based blade combat at the center of the duel, and make the lighting and stance-based blade combat effects match the selected visual direction.
+
+3.Play through the first duel and identify where movement or interactions feel awkward. Improve the ronin's movement and action animations so actions feel responsive and are easy to follow. Test the duel again while preserving the existing stance-based blade combat interactions.
+
+4.Add experience points to the playable prototype. Award experience for winning duels, track the total, and show progress clearly in the interface. Play through the duel to check that rewards are recorded correctly.
+
+5.Give the ronin an clearly readable indigo scarf. Adjust the ronin's facing and gear layering for each movement direction, especially when facing upward, so the indigo scarf sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make wind direction bend slash arcs and carry ink droplets that mark where cuts land. Keep indoor dojo air still so slashes fly true. Make the wind readable with reed sway, then test the same slash facing upwind and downwind.
+
+7.Let falling leaves pile on the ground and hide light footstep sounds while remaining visible as disturbed drifts. Test ambushes in deep leaf beds and on bare stone without changing the wind and still-air rules.
+
+8.Expand the playable dueling grounds into seven distinct duel arenas. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and stance-based blade combat rules. Connect the duel arenas into a pilgrimage that the player can progress through.
+
+9.Add a stance and charm loadout for what is earned in the dueling grounds. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

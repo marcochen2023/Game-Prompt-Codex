@@ -1,0 +1,19 @@
+打造一款orbital puzzler where a gardener aims sunlight with a mirror-bloom array，細節如下：
+
+1.Generate five concept images for an orbital puzzler where a gardener aims sunlight with a mirror-bloom array. Keep characters, props, and creatures simple and readable. Explore distinct environments with mirror glints, petal drift, orbit lines, and sunrise sweeps. Aim for the atmosphere of Portal and the systemic variety of Dorfromantik.
+
+2.Build a short, polished bloom pass from the attached Petal Array concept. Draw the graphics in code and make the character controllable, with shade blights to burn off. Put mirror-bloom aiming at the center of the bloom pass, and make the lighting and mirror-bloom aiming effects match the selected visual direction.
+
+3.Play through the first bloom pass and identify where movement or interactions feel awkward. Improve the gardener's movement and action animations so actions feel responsive and are easy to follow. Test the bloom pass again while preserving the existing mirror-bloom aiming interactions.
+
+4.Add experience points to the playable prototype. Award experience for blooming the array, track the total, and show progress clearly in the interface. Play through the bloom pass to check that rewards are recorded correctly.
+
+5.Give the gardener a clearly readable zero-g pruning shears. Adjust the gardener's facing and gear layering for each movement direction, especially when facing upward, so the zero-g pruning shears sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make focused mirrors bloom beds fast but scorch past the crisp bell. Keep diffused mirrors scorch-safe yet blooming slowly. Make crisping petals brown visibly, then test the same pass focused tight and diffused wide.
+
+7.Let bloomed beds drop petals, seeds, and lenses along the truss. Make the finds drift where they fall while staying easy to spot and net. Test finds focused tight and diffused wide without changing the scorch and slow rules.
+
+8.Expand the playable array into seven distinct array rings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and mirror-bloom aiming rules. Connect the array rings into a growing orbit that the player can progress through.
+
+9.Add a bloom chart and mirror keys for what is earned in the array. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

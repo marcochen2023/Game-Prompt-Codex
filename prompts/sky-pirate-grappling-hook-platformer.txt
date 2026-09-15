@@ -1,0 +1,19 @@
+打造一款3D sky-pirate platformer with grappling-hook traversal and a volumetric wind-current system，細節如下：
+
+1.Generate five concept images for a 3D sky-pirate platformer with grappling-hook traversal and a volumetric wind-current system. Keep characters, props, and creatures simple and readable. Explore distinct environments with wind streaks, cloud foam, rope sway, and sun shafts through rigging. Aim for the atmosphere of The Legend of Zelda: The Wind Waker and the systemic variety of Celeste.
+
+2.Build a short, polished sky trial from the attached Stormharbor Rig concept. Draw the graphics in code and make the character controllable, with sky scavengers to outmaneuver. Put wind-current grappling at the center of the sky trial, and make the lighting and wind-current grappling effects match the selected visual direction.
+
+3.Play through the first sky trial and identify where movement or interactions feel awkward. Improve the sky pirate's movement and action animations so actions feel responsive and are easy to follow. Test the sky trial again while preserving the existing wind-current grappling interactions.
+
+4.Add experience points to the playable prototype. Award experience for clearing sky trials, track the total, and show progress clearly in the interface. Play through the sky trial to check that rewards are recorded correctly.
+
+5.Give the sky pirate a clearly readable brass goggles and red scarf. Adjust the sky pirate's facing and gear layering for each movement direction, especially when facing upward, so the brass goggles and red scarf sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make storm clouds charge the hook line and release a speed burst on detach. Keep wooden decks insulated so decked landings never shock. Make charged lines crackle visibly, then test the same detach while reeling through cloud and over deck.
+
+7.Let updrafts lift loose cargo and drifting planks. Make the objects ride the existing wind simulation while staying easy to spot and grab. Test pickups inside a thermal and on still decks without changing the charge and insulated-deck rules.
+
+8.Expand the playable skyship wreck into seven distinct sky islands. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and wind-current grappling rules. Connect the sky islands into a ascent that the player can progress through.
+
+9.Add a gadget and rigging workshop for what is earned in the skyship wreck. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

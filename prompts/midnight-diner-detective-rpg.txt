@@ -1,0 +1,19 @@
+打造一款detective RPG where a line cook solves cases with an order-ticket deduction grill，細節如下：
+
+1.Generate five concept images for a detective RPG where a line cook solves cases with an order-ticket deduction grill. Keep characters, props, and creatures simple and readable. Explore distinct environments with grill sizzle, ticket rails, neon through blinds, and coffee steam. Aim for the atmosphere of Disco Elysium and the systemic variety of Diner Dash.
+
+2.Build a short, polished night shift from the attached The Griddle File concept. Draw the graphics in code and make the character controllable, with lying regulars to serve-justice. Put order-ticket deduction at the center of the night shift, and make the lighting and order-ticket deduction effects match the selected visual direction.
+
+3.Play through the first night shift and identify where movement or interactions feel awkward. Improve the cook's movement and action animations so actions feel responsive and are easy to follow. Test the night shift again while preserving the existing order-ticket deduction interactions.
+
+4.Add experience points to the playable prototype. Award experience for closing every case, track the total, and show progress clearly in the interface. Play through the night shift to check that rewards are recorded correctly.
+
+5.Give the cook a clearly readable grease-spotted name tag. Adjust the cook's facing and gear layering for each movement direction, especially when facing upward, so the grease-spotted name tag sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make rush-hour interrogations crack suspects fast but burn orders past the char bell. Keep slow-hour talks burn-safe yet yielding thin leads. Make charring tickets smoke visibly, then test the same shift rushed and slow.
+
+7.Let cracked suspects leave keys, photos, and unpaid tabs on the counter. Make the evidence sit where left while staying easy to read and file. Test evidence rushed and slow without changing the crack and thin rules.
+
+8.Expand the playable diner into seven distinct diner nights. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and order-ticket deduction rules. Connect the diner nights into a casebook that the player can progress through.
+
+9.Add a ticket rail and evidence drawer for what is earned in the diner. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

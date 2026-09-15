@@ -1,0 +1,19 @@
+打造一款first-person cozy sim where a beekeeper directs hives with waggle dances，細節如下：
+
+1.Generate five concept images for a first-person cozy sim where a beekeeper directs hives with waggle dances. Keep characters, props, and creatures simple and readable. Explore distinct environments with pollen drift, waggle trails, honey glow, and drowsy bee loops. Aim for the atmosphere of Stardew Valley and the systemic variety of Viva Pinata.
+
+2.Build a short, polished first harvest from the attached Cloverhollow concept. Draw the graphics in code and make the character controllable, with mite swarms to smoke out. Put waggle-dance directing at the center of the first harvest, and make the lighting and waggle-dance directing effects match the selected visual direction.
+
+3.Play through the first first harvest and identify where movement or interactions feel awkward. Improve the beekeeper's movement and action animations so actions feel responsive and are easy to follow. Test the first harvest again while preserving the existing waggle-dance directing interactions.
+
+4.Add experience points to the playable prototype. Award experience for bringing in harvests, track the total, and show progress clearly in the interface. Play through the first harvest to check that rewards are recorded correctly.
+
+5.Give the beekeeper a clearly readable veil-and-straw hat. Adjust the beekeeper's facing and gear layering for each movement direction, especially when facing upward, so the veil-and-straw hat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make flower-scent paths guide foragers home heavy with nectar. Keep smoke-puffed hives calm but drowsy and slow to gather. Make guided bees trail gold, then test the same hive directed by dance and freshly smoked.
+
+7.Let wind scatter petals, wax flakes, and dropped jars across the meadow. Make the items tumble on the existing breeze while staying easy to spot and collect. Test drops on a danced hive and a smoked hive without changing the scent and smoke rules.
+
+8.Expand the playable valley into seven distinct valley meadows. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and waggle-dance directing rules. Connect the valley meadows into a seasons that the player can progress through.
+
+9.Add hive frames and a smoker kit for what is earned in the valley. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款cozy RPG where a loopkeeper retains memories across a repeating village day，細節如下：
+
+1.Generate five concept images for a cozy RPG where a loopkeeper retains memories across a repeating village day. Keep characters, props, and creatures simple and readable. Explore distinct environments with loop embers, bell ripples, deja-vu ghosts, and lantern-lit lanes. Aim for the atmosphere of Outer Wilds and the systemic variety of The Legend of Zelda: Majoras Mask.
+
+2.Build a short, polished loop day from the attached Emberloop Hamlet concept. Draw the graphics in code and make the character controllable, with loop strays to soothe. Put loop-memory persistence at the center of the loop day, and make the lighting and loop-memory persistence effects match the selected visual direction.
+
+3.Play through the first loop day and identify where movement or interactions feel awkward. Improve the loopkeeper's movement and action animations so actions feel responsive and are easy to follow. Test the loop day again while preserving the existing loop-memory persistence interactions.
+
+4.Add experience points to the playable prototype. Award experience for soothing strays, track the total, and show progress clearly in the interface. Play through the loop day to check that rewards are recorded correctly.
+
+5.Give the loopkeeper a clearly readable bell-brass locket. Adjust the loopkeeper's facing and gear layering for each movement direction, especially when facing upward, so the bell-brass locket sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make the noon bell reset the world but preserve anything rung into memory at a shrine. Keep unshrined progress melting away at the toll. Make remembered objects glint gold, then test the same errand with shrined tools and unshrined tools.
+
+7.Let villager fondness persist faintly across loops once a keepsake is exchanged. Make fondness visible as ribbon colors while staying simple to read. Test bonds with keepsakes and without across two loops without changing the shrine and reset rules.
+
+8.Expand the playable hamlet into seven distinct village days. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and loop-memory persistence rules. Connect the village days into a seven loops that the player can progress through.
+
+9.Add a memory board and keepsakes for what is earned in the hamlet. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

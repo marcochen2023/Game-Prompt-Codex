@@ -1,0 +1,19 @@
+打造一款factory automation sim refining algae vats with a flow-pressure pipe network，細節如下：
+
+1.Generate five concept images for a factory automation sim refining algae vats with a flow-pressure pipe network. Keep characters, props, and creatures simple and readable. Explore distinct environments with vat bubbles, pipe pressure glow, steam vents, and drifting spores. Aim for the atmosphere of Factorio and the systemic variety of Satisfactory.
+
+2.Build a short, polished first shift from the attached Greenline Works concept. Draw the graphics in code and make the character controllable, with clog blooms to flush. Put flow-pressure pipe routing at the center of the first shift, and make the lighting and flow-pressure pipe routing effects match the selected visual direction.
+
+3.Play through the first first shift and identify where movement or interactions feel awkward. Improve the technician's movement and action animations so actions feel responsive and are easy to follow. Test the first shift again while preserving the existing flow-pressure pipe routing interactions.
+
+4.Add experience points to the playable prototype. Award experience for hitting quota, track the total, and show progress clearly in the interface. Play through the first shift to check that rewards are recorded correctly.
+
+5.Give the technician an clearly readable acid-green gloves. Adjust the technician's facing and gear layering for each movement direction, especially when facing upward, so the acid-green gloves sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make high-pressure lines refine twice as fast but burst past the red valve. Keep low-pressure loops safe yet slow to a trickle. Make straining pipes sweat and hiss, then test the same line run hot and throttled low.
+
+7.Let burst pipes spit algae cakes, bolts, and filters onto the floor. Make the debris scatter on the existing floor physics while staying easy to spot and sweep. Test debris from hot lines and low lines without changing the burst and trickle rules.
+
+8.Expand the playable works into seven distinct factory halls. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and flow-pressure pipe routing rules. Connect the factory halls into a production quotas that the player can progress through.
+
+9.Add a pipe catalog and valve kit for what is earned in the works. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

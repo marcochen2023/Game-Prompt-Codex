@@ -1,0 +1,19 @@
+打造一款noir visual novel where an ink detective rewinds testimony with a blot-and-thread board，細節如下：
+
+1.Generate five concept images for a noir visual novel where an ink detective rewinds testimony with a blot-and-thread board. Keep characters, props, and creatures simple and readable. Explore distinct environments with ink blots, rain on glass, neon through blinds, and cigarette curls. Aim for the atmosphere of Disco Elysium and the systemic variety of Danganronpa.
+
+2.Build a short, polished interrogation from the attached Rainblot Row concept. Draw the graphics in code and make the character controllable, with lying suspects to corner. Put testimony-thread rewinding at the center of the interrogation, and make the lighting and testimony-thread rewinding effects match the selected visual direction.
+
+3.Play through the first interrogation and identify where movement or interactions feel awkward. Improve the detective's movement and action animations so actions feel responsive and are easy to follow. Test the interrogation again while preserving the existing testimony-thread rewinding interactions.
+
+4.Add experience points to the playable prototype. Award experience for closing the case, track the total, and show progress clearly in the interface. Play through the interrogation to check that rewards are recorded correctly.
+
+5.Give the detective an clearly readable ink-stained trench coat. Adjust the detective's facing and gear layering for each movement direction, especially when facing upward, so the ink-stained trench coat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make pressed suspects contradict themselves if shown two linked clues in one thread. Keep unlinked clue dumps safe but ignored by the suspect. Make cracking lies flicker on screen, then test the same suspect with a linked thread and a random dump.
+
+7.Let solved witnesses leave letters, keys, and photos on the board. Make the keepsakes pin neatly while staying easy to read and revisit. Test keepsakes from linked threads and random dumps without changing the link and ignore rules.
+
+8.Expand the playable precinct into seven distinct case files. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and testimony-thread rewinding rules. Connect the case files into a season of cases that the player can progress through.
+
+9.Add an evidence board and ink kit for what is earned in the precinct. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

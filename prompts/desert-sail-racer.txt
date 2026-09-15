@@ -1,0 +1,19 @@
+打造一款wind-physics racer where a sail jockey drifts sand skiffs across dune seas，細節如下：
+
+1.Generate five concept images for a wind-physics racer where a sail jockey drifts sand skiffs across dune seas. Keep characters, props, and creatures simple and readable. Explore distinct environments with sail snap, sand spray, heat shimmer, and mirage glints. Aim for the atmosphere of Forza Horizon and the systemic variety of Sonic Racing.
+
+2.Build a short, polished time trial from the attached Glassdune Sea concept. Draw the graphics in code and make the character controllable, with rival jockeys to outdrift. Put sail-trim boosting at the center of the time trial, and make the lighting and sail-trim boosting effects match the selected visual direction.
+
+3.Play through the first time trial and identify where movement or interactions feel awkward. Improve the jockey's movement and action animations so actions feel responsive and are easy to follow. Test the time trial again while preserving the existing sail-trim boosting interactions.
+
+4.Add experience points to the playable prototype. Award experience for winning trials, track the total, and show progress clearly in the interface. Play through the time trial to check that rewards are recorded correctly.
+
+5.Give the jockey a clearly readable sand-scarred helmet visor. Adjust the jockey's facing and gear layering for each movement direction, especially when facing upward, so the sand-scarred helmet visor sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make tailwind legs overcharge the boost sail but overheat it past the red band. Keep luffing headwind legs cool yet slow unless tacked. Make overheating sails glow at the seams, then test the same leg downwind and tacked upwind.
+
+7.Let wrecked rivals drop sails, rivets, and water skins onto the course. Make the drops skid on the existing dune physics while staying easy to spot and grab. Test drops on a tailwind leg and a tacked leg without changing the boost and cooling rules.
+
+8.Expand the playable erg into seven distinct race regions. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and sail-trim boosting rules. Connect the race regions into a grand tour that the player can progress through.
+
+9.Add a sail loft and rig tuning for what is earned in the erg. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

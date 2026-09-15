@@ -1,0 +1,19 @@
+打造一款western duelist where a cactus cowboy draws with a sun-heat standoff meter，細節如下：
+
+1.Generate five concept images for a western duelist where a cactus cowboy draws with a sun-heat standoff meter. Keep characters, props, and creatures simple and readable. Explore distinct environments with dust devils, heat shimmer, spur jingles, and tumbleweed rolls. Aim for the atmosphere of Red Dead Redemption and the systemic variety of Sifu.
+
+2.Build a short, polished high-noon standoff from the attached Prickly Noon concept. Draw the graphics in code and make the character controllable, with rival outlaws to outdraw. Put sun-heat draw timing at the center of the high-noon standoff, and make the lighting and sun-heat draw timing effects match the selected visual direction.
+
+3.Play through the first high-noon standoff and identify where movement or interactions feel awkward. Improve the cowboy's movement and action animations so actions feel responsive and are easy to follow. Test the high-noon standoff again while preserving the existing sun-heat draw timing interactions.
+
+4.Add experience points to the playable prototype. Award experience for cleaning up the town, track the total, and show progress clearly in the interface. Play through the high-noon standoff to check that rewards are recorded correctly.
+
+5.Give the cowboy a clearly readable cactus-flower hat band. Adjust the cowboy's facing and gear layering for each movement direction, especially when facing upward, so the cactus-flower hat band sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make high-sun draws fire fastest but blind past the glare bell. Keep shaded draws safe from glare yet a beat slower. Make glaring sights wash white, then test the same draw at high noon and from the shade.
+
+7.Let beaten outlaws drop bounties, spurs, and wanted posters in the dust. Make the drops kick up where they fall while staying easy to spot and claim. Test drops at high noon and from shade without changing the glare and shade rules.
+
+8.Expand the playable frontier into seven distinct frontier towns. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and sun-heat draw timing rules. Connect the frontier towns into a posse season that the player can progress through.
+
+9.Add a bounty board and iron kit for what is earned in the frontier. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

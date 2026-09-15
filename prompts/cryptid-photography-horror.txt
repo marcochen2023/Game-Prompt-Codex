@@ -1,0 +1,19 @@
+打造一款found-footage horror where a photographer baits cryptids with a flash-and-lure camera，細節如下：
+
+1.Generate five concept images for a found-footage horror where a photographer baits cryptids with a flash-and-lure camera. Keep characters, props, and creatures simple and readable. Explore distinct environments with flash blooms, breath fog, branch sway, and red-eye glints. Aim for the atmosphere of Phasmophobia and the systemic variety of Pokemon Snap.
+
+2.Build a short, polished night stakeout from the attached Hollow Pines concept. Draw the graphics in code and make the character controllable, with ridge cryptids to document. Put flash-and-lure baiting at the center of the night stakeout, and make the lighting and flash-and-lure baiting effects match the selected visual direction.
+
+3.Play through the first night stakeout and identify where movement or interactions feel awkward. Improve the photographer's movement and action animations so actions feel responsive and are easy to follow. Test the night stakeout again while preserving the existing flash-and-lure baiting interactions.
+
+4.Add experience points to the playable prototype. Award experience for completing the roll, track the total, and show progress clearly in the interface. Play through the night stakeout to check that rewards are recorded correctly.
+
+5.Give the photographer a clearly readable taped-up film camera. Adjust the photographer's facing and gear layering for each movement direction, especially when facing upward, so the taped-up film camera sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make flash bursts freeze cryptids for a sharp shot but drain battery and attract the hollow stag. Keep infrared darkroom mode safe yet yielding grainy half-value shots. Make drained batteries blink red, then test the same stakeout flashed bright and shot infrared.
+
+7.Let documented cryptids drop fur, prints, and broken traps in the pines. Make the traces glow under UV while staying easy to spot and bag. Test traces after flash bursts and infrared nights without changing the attract and grainy rules.
+
+8.Expand the playable forest into seven distinct stakeout sites. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and flash-and-lure baiting rules. Connect the stakeout sites into a expedition that the player can progress through.
+
+9.Add a photo wall and lure kit for what is earned in the forest. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

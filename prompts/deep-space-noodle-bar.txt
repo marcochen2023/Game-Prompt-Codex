@@ -1,0 +1,19 @@
+打造一款zero-g bar sim where a chef tosses noodles with a broth-orbit ladle，細節如下：
+
+1.Generate five concept images for a zero-g bar sim where a chef tosses noodles with a broth-orbit ladle. Keep characters, props, and creatures simple and readable. Explore distinct environments with noodle arcs, broth globes, steam curls, and neon menus. Aim for the atmosphere of Overcooked and the systemic variety of Outer Wilds.
+
+2.Build a short, polished dinner rush from the attached Broth Orbit concept. Draw the graphics in code and make the character controllable, with impatient spacers to satisfy. Put broth-orbit tossing at the center of the dinner rush, and make the lighting and broth-orbit tossing effects match the selected visual direction.
+
+3.Play through the first dinner rush and identify where movement or interactions feel awkward. Improve the chef's movement and action animations so actions feel responsive and are easy to follow. Test the dinner rush again while preserving the existing broth-orbit tossing interactions.
+
+4.Add experience points to the playable prototype. Award experience for earning five ladles, track the total, and show progress clearly in the interface. Play through the dinner rush to check that rewards are recorded correctly.
+
+5.Give the chef a clearly readable noodle-net hair scarf. Adjust the chef's facing and gear layering for each movement direction, especially when facing upward, so the noodle-net hair scarf sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make orbit tosses plate fast but splatter past the spill bell. Keep ladled plates spill-safe yet plating slowly. Make splattering broth bead visibly, then test the same rush tossed orbital and ladled careful.
+
+7.Let satisfied spacers leave credits, chopsticks, and reviews on the trays. Make the tips float where left while staying easy to spot and pocket. Test tips tossed orbital and ladled careful without changing the splatter and slow rules.
+
+8.Expand the playable station into seven distinct bar decks. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and broth-orbit tossing rules. Connect the bar decks into a season that the player can progress through.
+
+9.Add a ladle set and broth chart for what is earned in the station. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

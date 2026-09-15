@@ -1,0 +1,19 @@
+打造一款tranquil fishing sim where a pondkeeper reads ripples with a fly-tying bench，細節如下：
+
+1.Generate five concept images for a tranquil fishing sim where a pondkeeper reads ripples with a fly-tying bench. Keep characters, props, and creatures simple and readable. Explore distinct environments with ripple rings, dragonfly zips, lily sway, and morning mist. Aim for the atmosphere of Stardew Valley and the systemic variety of Animal Crossing.
+
+2.Build a short, polished dawn cast from the attached Lilybell Pond concept. Draw the graphics in code and make the character controllable, with old pond kings to land. Put ripple-reading casts at the center of the dawn cast, and make the lighting and ripple-reading casts effects match the selected visual direction.
+
+3.Play through the first dawn cast and identify where movement or interactions feel awkward. Improve the pondkeeper's movement and action animations so actions feel responsive and are easy to follow. Test the dawn cast again while preserving the existing ripple-reading casts interactions.
+
+4.Add experience points to the playable prototype. Award experience for completing the creel, track the total, and show progress clearly in the interface. Play through the dawn cast to check that rewards are recorded correctly.
+
+5.Give the pondkeeper a clearly readable woven lily hat. Adjust the pondkeeper's facing and gear layering for each movement direction, especially when facing upward, so the woven lily hat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make dawn-mist casts reveal lunkers but tangle line in lily stems. Keep noon-clear casts safe from tangles yet spooking shallows. Make tangled stems shake visibly, then test the same cast at dawn mist and high noon.
+
+7.Let breezes push loose flies, bobbers, and lunch tins across the dock. Make the items drift on the existing ripple field while staying easy to spot and retrieve. Test drift at dawn mist and high noon without changing the tangle and spook rules.
+
+8.Expand the playable pond into seven distinct pond coves. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and ripple-reading casts rules. Connect the pond coves into a fishing year that the player can progress through.
+
+9.Add a fly book and creel log for what is earned in the pond. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

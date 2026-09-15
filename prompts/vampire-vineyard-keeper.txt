@@ -1,0 +1,19 @@
+打造一款gothic management sim where a vampire vintner balances blood moon vintages against hunter patrols，細節如下：
+
+1.Generate five concept images for a gothic management sim where a vampire vintner balances blood moon vintages against hunter patrols. Keep characters, props, and creatures simple and readable. Explore distinct environments with blood-moon glow, mist over rows, lantern moths, and fermenting barrel bubbles. Aim for the atmosphere of Stardew Valley and the systemic variety of Papers Please.
+
+2.Build a short, polished harvest night from the attached Crimson Terraces concept. Draw the graphics in code and make the character controllable, with hunter patrols to evade. Put moon-phase vintage tuning at the center of the harvest night, and make the lighting and moon-phase vintage tuning effects match the selected visual direction.
+
+3.Play through the first harvest night and identify where movement or interactions feel awkward. Improve the vintner's movement and action animations so actions feel responsive and are easy to follow. Test the harvest night again while preserving the existing moon-phase vintage tuning interactions.
+
+4.Add experience points to the playable prototype. Award experience for bottling grand vintages, track the total, and show progress clearly in the interface. Play through the harvest night to check that rewards are recorded correctly.
+
+5.Give the vintner a clearly readable high-collared black cape. Adjust the vintner's facing and gear layering for each movement direction, especially when facing upward, so the high-collared black cape sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make blood-moon rows ripen grapes twice as fast but attract hunters to lit rows. Keep chapel-shadowed rows slow yet hidden from patrols. Make ripe rows glisten red, then test the same harvest under blood moon and in chapel shadow.
+
+7.Let wind scatter cuttings, corks, and dropped vials across the terraces. Make the items roll on the existing slope physics while staying easy to spot and collect. Test spills under blood moon and in chapel shadow without changing the ripening and hiding rules.
+
+8.Expand the playable vineyard into seven distinct vineyard slopes. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and moon-phase vintage tuning rules. Connect the vineyard slopes into a vintage years that the player can progress through.
+
+9.Add a cellar ledger and vintage press for what is earned in the vineyard. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

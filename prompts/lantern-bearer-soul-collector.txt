@@ -1,0 +1,19 @@
+打造一款atmospheric collector where a lantern bearer guides wisps through consuming dark，細節如下：
+
+1.Generate five concept images for an atmospheric collector where a lantern bearer guides wisps through consuming dark. Keep characters, props, and creatures simple and readable. Explore distinct environments with wisp trails, lantern halos, moth swarms, and drinking darkness. Aim for the atmosphere of Hollow Knight and the systemic variety of Hades.
+
+2.Build a short, polished soul vigil from the attached Ashen Lantern Road concept. Draw the graphics in code and make the character controllable, with hollow strays to guide. Put light-radius soul guiding at the center of the soul vigil, and make the lighting and light-radius soul guiding effects match the selected visual direction.
+
+3.Play through the first soul vigil and identify where movement or interactions feel awkward. Improve the lantern bearer's movement and action animations so actions feel responsive and are easy to follow. Test the soul vigil again while preserving the existing light-radius soul guiding interactions.
+
+4.Add experience points to the playable prototype. Award experience for guiding strays home, track the total, and show progress clearly in the interface. Play through the soul vigil to check that rewards are recorded correctly.
+
+5.Give the lantern bearer a clearly readable moth-eaten cloak clasp. Adjust the lantern bearer's facing and gear layering for each movement direction, especially when facing upward, so the moth-eaten cloak clasp sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make lantern light herd wisps toward shrines but burn wick oil while raised high. Keep shuttered low-light safe for oil yet letting wisps wander. Make guided wisps trail gold, then test the same vigil with the lamp high and shuttered.
+
+7.Let stray moths gather fallen wick and dropped embers across the road. Make the pickups glint in the existing light radius while staying easy to see and gather. Test pickups with the lamp high and shuttered without changing the brightness and oil rules.
+
+8.Expand the playable road into seven distinct road stations. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and light-radius soul guiding rules. Connect the road stations into a pilgrimage that the player can progress through.
+
+9.Add lantern oils and wick charms for what is earned in the road. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

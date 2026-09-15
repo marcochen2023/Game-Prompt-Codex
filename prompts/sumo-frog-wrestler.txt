@@ -1,0 +1,19 @@
+打造一款physics sports battler where a frog wrestler grips the mud ring with a splash-stomp meter，細節如下：
+
+1.Generate five concept images for a physics sports battler where a frog wrestler grips the mud ring with a splash-stomp meter. Keep characters, props, and creatures simple and readable. Explore distinct environments with mud splats, splash rings, belly drums, and firefly swarms. Aim for the atmosphere of Gang Beasts and the systemic variety of Wii Sports.
+
+2.Build a short, polished mud bout from the attached Mudmoon Dohyo concept. Draw the graphics in code and make the character controllable, with rival frogs to ring-out. Put splash-stomp gripping at the center of the mud bout, and make the lighting and splash-stomp gripping effects match the selected visual direction.
+
+3.Play through the first mud bout and identify where movement or interactions feel awkward. Improve the wrestler's movement and action animations so actions feel responsive and are easy to follow. Test the mud bout again while preserving the existing splash-stomp gripping interactions.
+
+4.Add experience points to the playable prototype. Award experience for taking the basho, track the total, and show progress clearly in the interface. Play through the mud bout to check that rewards are recorded correctly.
+
+5.Give the wrestler a clearly readable lotus-leaf mawashi. Adjust the wrestler's facing and gear layering for each movement direction, especially when facing upward, so the lotus-leaf mawashi sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make wet mud grip throws strong but slide past the slick bell. Keep dry clay safe to stand yet weak to throws. Make slick mud shine at the rim, then test the same bout fought wet and fully dry.
+
+7.Let rung-out rivals drop charms, sandals, and rice cakes ringside. Make the drops splat into the mud while staying easy to spot and retrieve. Test drops from wet bouts and dry bouts without changing the grip and slide rules.
+
+8.Expand the playable marsh into seven distinct tournament marshes. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and splash-stomp gripping rules. Connect the tournament marshes into a basho that the player can progress through.
+
+9.Add a stable diet chart and grip salts for what is earned in the marsh. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

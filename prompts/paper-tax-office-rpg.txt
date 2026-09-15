@@ -1,0 +1,19 @@
+打造一款paperwork RPG where a clerk stamps dungeon permits with a stamp-combo desk，細節如下：
+
+1.Generate five concept images for a paperwork RPG where a clerk stamps dungeon permits with a stamp-combo desk. Keep characters, props, and creatures simple and readable. Explore distinct environments with stamp thumps, paper stacks, ink pads, and desk-lamp pools. Aim for the atmosphere of Papers Please and the systemic variety of Disco Elysium.
+
+2.Build a short, polished permit day from the attached The Rubber-Stamp Depths concept. Draw the graphics in code and make the character controllable, with impostor delves to deny. Put stamp-combo filing at the center of the permit day, and make the lighting and stamp-combo filing effects match the selected visual direction.
+
+3.Play through the first permit day and identify where movement or interactions feel awkward. Improve the clerk's movement and action animations so actions feel responsive and are easy to follow. Test the permit day again while preserving the existing stamp-combo filing interactions.
+
+4.Add experience points to the playable prototype. Award experience for balancing the books, track the total, and show progress clearly in the interface. Play through the permit day to check that rewards are recorded correctly.
+
+5.Give the clerk an clearly readable oversized approval stamp. Adjust the clerk's facing and gear layering for each movement direction, especially when facing upward, so the oversized approval stamp sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make combo stamps clear queues fast but smudge past the blot bell. Keep single stamps blot-safe yet crawling slowly. Make smudging forms bleed visibly, then test the same day stamped combo and stamped single.
+
+7.Let cleared delves drop forms, seals, and bribes on the desk. Make the papers stack where left while staying easy to read and file. Test papers stamped combo and stamped single without changing the smudge and slow rules.
+
+8.Expand the playable office into seven distinct permit windows. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and stamp-combo filing rules. Connect the permit windows into a fiscal year that the player can progress through.
+
+9.Add a stamp wall and ledger for what is earned in the office. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

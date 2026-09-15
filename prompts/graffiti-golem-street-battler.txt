@@ -1,0 +1,19 @@
+打造一款street battler where a writer tags golems awake with a spray-pressure crew，細節如下：
+
+1.Generate five concept images for a street battler where a writer tags golems awake with a spray-pressure crew. Keep characters, props, and creatures simple and readable. Explore distinct environments with spray cones, paint drips, siren sweeps, and roller rumble. Aim for the atmosphere of Jet Set Radio and the systemic variety of Streets of Rage.
+
+2.Build a short, polished block jam from the attached Chroma Blocks concept. Draw the graphics in code and make the character controllable, with buff-squad cleaners to outpaint. Put spray-pressure tagging at the center of the block jam, and make the lighting and spray-pressure tagging effects match the selected visual direction.
+
+3.Play through the first block jam and identify where movement or interactions feel awkward. Improve the writer's movement and action animations so actions feel responsive and are easy to follow. Test the block jam again while preserving the existing spray-pressure tagging interactions.
+
+4.Add experience points to the playable prototype. Award experience for holding the blocks, track the total, and show progress clearly in the interface. Play through the block jam to check that rewards are recorded correctly.
+
+5.Give the writer a clearly readable respirator mask and paint-splattered hoodie. Adjust the writer's facing and gear layering for each movement direction, especially when facing upward, so the respirator mask and paint-splattered hoodie sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make high-pressure tags summon golems fast but drip past the run bell. Keep low-pressure tags crisp yet slow to wake. Make running paint streak visibly, then test the same jam sprayed high and feathered low.
+
+7.Let buffed walls drop caps, cans, and sketchbooks in the alley. Make the drops clatter where they fall while staying easy to spot and grab. Test drops sprayed high and feathered low without changing the drip and slow rules.
+
+8.Expand the playable district into seven distinct painted blocks. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and spray-pressure tagging rules. Connect the painted blocks into a crew season that the player can progress through.
+
+9.Add a cap wall and blackbook for what is earned in the district. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

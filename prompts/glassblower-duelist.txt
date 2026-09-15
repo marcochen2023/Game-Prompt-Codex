@@ -1,0 +1,19 @@
+打造一款duelist where a glassblower parries with a gather-and-blow furnace，細節如下：
+
+1.Generate five concept images for a duelist where a glassblower parries with a gather-and-blow furnace. Keep characters, props, and creatures simple and readable. Explore distinct environments with gather glow, blow pipes, annealing shimmer, and furnace roar. Aim for the atmosphere of Sekiro and the systemic variety of Sifu.
+
+2.Build a short, polished furnace duel from the attached Embermouth concept. Draw the graphics in code and make the character controllable, with rival blowers to outshape. Put gather-and-blow parrying at the center of the furnace duel, and make the lighting and gather-and-blow parrying effects match the selected visual direction.
+
+3.Play through the first furnace duel and identify where movement or interactions feel awkward. Improve the glassblower's movement and action animations so actions feel responsive and are easy to follow. Test the furnace duel again while preserving the existing gather-and-blow parrying interactions.
+
+4.Add experience points to the playable prototype. Award experience for taking the embermouth, track the total, and show progress clearly in the interface. Play through the furnace duel to check that rewards are recorded correctly.
+
+5.Give the glassblower a clearly readable heat-checkered apron. Adjust the glassblower's facing and gear layering for each movement direction, especially when facing upward, so the heat-checkered apron sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make furnace-hot gathers parry strong but shatter past the chill bell. Keep annealed gathers safe yet soft to edge. Make chilling glass craze visibly, then test the same duel gathered hot and annealed cool.
+
+7.Let outshaped rivals drop pipes, frit, and ribbons by the glory hole. Make the tools rest where they land while staying easy to spot and claim. Test tools gathered hot and annealed cool without changing the shatter and soft rules.
+
+8.Expand the playable works into seven distinct furnace bays. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and gather-and-blow parrying rules. Connect the furnace bays into a exhibition that the player can progress through.
+
+9.Add a pipe rack and frit bins for what is earned in the works. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

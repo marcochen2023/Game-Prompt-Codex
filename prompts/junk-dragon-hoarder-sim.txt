@@ -1,0 +1,19 @@
+打造一款hoard sim where a junk dragon values trash with a shine-appraisal sneeze，細節如下：
+
+1.Generate five concept images for a hoard sim where a junk dragon values trash with a shine-appraisal sneeze. Keep characters, props, and creatures simple and readable. Explore distinct environments with shine glints, coin avalanches, sneeze embers, and dust motes. Aim for the atmosphere of Viva Pinata and the systemic variety of Stardew Valley.
+
+2.Build a short, polished hoard day from the attached Glimmerheap concept. Draw the graphics in code and make the character controllable, with knight collectors to sneeze off. Put shine-appraisal sneezing at the center of the hoard day, and make the lighting and shine-appraisal sneezing effects match the selected visual direction.
+
+3.Play through the first hoard day and identify where movement or interactions feel awkward. Improve the dragon's movement and action animations so actions feel responsive and are easy to follow. Test the hoard day again while preserving the existing shine-appraisal sneezing interactions.
+
+4.Add experience points to the playable prototype. Award experience for raising the glimmerheap, track the total, and show progress clearly in the interface. Play through the hoard day to check that rewards are recorded correctly.
+
+5.Give the dragon a clearly readable bottlecap scale polish. Adjust the dragon's facing and gear layering for each movement direction, especially when facing upward, so the bottlecap scale polish sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make sneeze appraisals price piles fast but scatter them past the gust bell. Keep paw-sorted piles tidy yet slow to value. Make scattering coins roll visibly, then test the same day sneezed loud and paw-sorted.
+
+7.Let sneezed knights drop shields, deeds, and lunch pails on the heap. Make the loot half-bury where it lands while staying easy to spot and drag in. Test loot sneezed loud and paw-sorted without changing the scatter and slow rules.
+
+8.Expand the playable heap into seven distinct hoard warrens. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and shine-appraisal sneezing rules. Connect the hoard warrens into a hoard years that the player can progress through.
+
+9.Add a shine ledger and sneeze chart for what is earned in the heap. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

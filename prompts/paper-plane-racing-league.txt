@@ -1,0 +1,19 @@
+打造一款toy-box racer where a kid folds paper planes with a thermal-lift playground，細節如下：
+
+1.Generate five concept images for a toy-box racer where a kid folds paper planes with a thermal-lift playground. Keep characters, props, and creatures simple and readable. Explore distinct environments with paper flutter, chalk dust, sunbeam columns, and curtain sway. Aim for the atmosphere of Mario Kart and the systemic variety of Fall Guys.
+
+2.Build a short, polished playground grand prix from the attached Gymnasium Thermals concept. Draw the graphics in code and make the character controllable, with rival folders to outglide. Put thermal-lift gliding at the center of the playground grand prix, and make the lighting and thermal-lift gliding effects match the selected visual direction.
+
+3.Play through the first playground grand prix and identify where movement or interactions feel awkward. Improve the kid pilot's movement and action animations so actions feel responsive and are easy to follow. Test the playground grand prix again while preserving the existing thermal-lift gliding interactions.
+
+4.Add experience points to the playable prototype. Award experience for winning the grand prix, track the total, and show progress clearly in the interface. Play through the playground grand prix to check that rewards are recorded correctly.
+
+5.Give the kid pilot a clearly readable red paper-crown visor. Adjust the kid pilot's facing and gear layering for each movement direction, especially when facing upward, so the red paper-crown visor sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make sunbeam thermals lift planes high but wobble folds past the flutter limit. Keep shaded air stable yet sinking slowly. Make wobbling wings crinkle audibly, then test the same glide inside a thermal and through shade.
+
+7.Let crashed rivals drop stickers, clips, and spare folds on the course. Make the drops flutter down while staying easy to spot and grab. Test drops inside thermals and in shade without changing the lift and sink rules.
+
+8.Expand the playable school into seven distinct playground circuits. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and thermal-lift gliding rules. Connect the playground circuits into a season that the player can progress through.
+
+9.Add a fold book and sticker wall for what is earned in the school. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

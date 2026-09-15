@@ -1,0 +1,19 @@
+打造一款stealth courier where a ferret postman slips parcels past hawk patrols with a scent-pouch system，細節如下：
+
+1.Generate five concept images for a stealth courier where a ferret postman slips parcels past hawk patrols with a scent-pouch system. Keep characters, props, and creatures simple and readable. Explore distinct environments with tube sway, feather shadows, bell jingles, and grass rustle. Aim for the atmosphere of Hitman and the systemic variety of Untitled Goose Game.
+
+2.Build a short, polished mail run from the attached Thistledown Route concept. Draw the graphics in code and make the character controllable, with hawk patrols to slip past. Put scent-pouch sneaking at the center of the mail run, and make the lighting and scent-pouch sneaking effects match the selected visual direction.
+
+3.Play through the first mail run and identify where movement or interactions feel awkward. Improve the postman's movement and action animations so actions feel responsive and are easy to follow. Test the mail run again while preserving the existing scent-pouch sneaking interactions.
+
+4.Add experience points to the playable prototype. Award experience for delivering every parcel, track the total, and show progress clearly in the interface. Play through the mail run to check that rewards are recorded correctly.
+
+5.Give the postman a clearly readable satchel with brass buckle. Adjust the postman's facing and gear layering for each movement direction, especially when facing upward, so the satchel with brass buckle sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make rain-washed runs scentless but slow through mud past the squelch bell. Keep dry runs fast yet scent-marked for hawks. Make marked trails shimmer visibly, then test the same run washed rainy and run dry.
+
+7.Let startled senders drop stamps, twine, and biscuits along the route. Make the mail rest where it falls while staying easy to spot and post. Test mail washed rainy and run dry without changing the slow and marked rules.
+
+8.Expand the playable route into seven distinct delivery wards. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and scent-pouch sneaking rules. Connect the delivery wards into a postal year that the player can progress through.
+
+9.Add a stamp album and scent kit for what is earned in the route. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款ranch sim where a wrangler lassos dinosaurs with rhythm-based roping，細節如下：
+
+1.Generate five concept images for a ranch sim where a wrangler lassos dinosaurs with rhythm-based roping. Keep characters, props, and creatures simple and readable. Explore distinct environments with dust devils, scale sheen, stampede rumble, and lasso whoosh rings. Aim for the atmosphere of Red Dead Redemption and the systemic variety of Stardew Valley.
+
+2.Build a short, polished first roundup from the attached Thundermug Flats concept. Draw the graphics in code and make the character controllable, with rustler drones to rope down. Put lasso-rhythm wrangling at the center of the first roundup, and make the lighting and lasso-rhythm wrangling effects match the selected visual direction.
+
+3.Play through the first first roundup and identify where movement or interactions feel awkward. Improve the rancher's movement and action animations so actions feel responsive and are easy to follow. Test the first roundup again while preserving the existing lasso-rhythm wrangling interactions.
+
+4.Add experience points to the playable prototype. Award experience for penning the herd, track the total, and show progress clearly in the interface. Play through the first roundup to check that rewards are recorded correctly.
+
+5.Give the rancher a clearly readable dino-tooth necklace. Adjust the rancher's facing and gear layering for each movement direction, especially when facing upward, so the dino-tooth necklace sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make roping on the hoofbeat calm beasts and fill the trust gauge. Keep missed beats spooking them toward a stampede warning. Make calm beasts lower their heads, then test the same catch roped on-beat and fully off-beat.
+
+7.Let startled herds kick up eggs, feed sacks, and tools across the pen. Make the items scatter on the existing dust physics while staying easy to spot and retrieve. Test spills during a calm catch and a spooked stampede without changing the rhythm and spook rules.
+
+8.Expand the playable ranch into seven distinct ranch ranges. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and lasso-rhythm wrangling rules. Connect the ranch ranges into a rodeo circuit that the player can progress through.
+
+9.Add a saddle and feed lab for what is earned in the ranch. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

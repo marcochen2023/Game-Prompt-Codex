@@ -1,0 +1,19 @@
+打造一款stealth adventure where a stagehand haunts an opera with a trapdoor-and-chandelier rig，細節如下：
+
+1.Generate five concept images for a stealth adventure where a stagehand haunts an opera with a trapdoor-and-chandelier rig. Keep characters, props, and creatures simple and readable. Explore distinct environments with chandelier sway, curtain dust, footlight pools, and score-page flutters. Aim for the atmosphere of Hitman and the systemic variety of Luigis Mansion.
+
+2.Build a short, polished opening night from the attached The Gilded Fall concept. Draw the graphics in code and make the character controllable, with critic wraiths to drop. Put trapdoor-and-chandelier rigging at the center of the opening night, and make the lighting and trapdoor-and-chandelier rigging effects match the selected visual direction.
+
+3.Play through the first opening night and identify where movement or interactions feel awkward. Improve the stagehand's movement and action animations so actions feel responsive and are easy to follow. Test the opening night again while preserving the existing trapdoor-and-chandelier rigging interactions.
+
+4.Add experience points to the playable prototype. Award experience for bringing down the house, track the total, and show progress clearly in the interface. Play through the opening night to check that rewards are recorded correctly.
+
+5.Give the stagehand a clearly readable paint-splattered cap. Adjust the stagehand's facing and gear layering for each movement direction, especially when facing upward, so the paint-splattered cap sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make chandelier drops silence whole rows but swing wild past the sway bell. Keep trapdoor tricks quiet yet single-target only. Make swaying chains groan visibly, then test the same night swung wide and trapped quiet.
+
+7.Let dropped wraiths leave tickets, roses, and lost scores in the aisles. Make the keepsakes lie where they fall while staying easy to spot and collect. Test keepsakes swung wide and trapped quiet without changing the silence and single-target rules.
+
+8.Expand the playable opera into seven distinct opera nights. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and trapdoor-and-chandelier rigging rules. Connect the opera nights into a season that the player can progress through.
+
+9.Add a rigging plot and prop loft for what is earned in the opera. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

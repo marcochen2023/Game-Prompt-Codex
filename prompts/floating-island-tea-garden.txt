@@ -1,0 +1,19 @@
+打造一款serene gardening sim growing tea across floating islands fed by altitude mist，細節如下：
+
+1.Generate five concept images for a serene gardening sim growing tea across floating islands fed by altitude mist. Keep characters, props, and creatures simple and readable. Explore distinct environments with mist curls, petal fall, kettle steam, and dew on leaves. Aim for the atmosphere of Stardew Valley and the systemic variety of Dorfromantik.
+
+2.Build a short, polished first steeping from the attached Mistral Terrace concept. Draw the graphics in code and make the character controllable, with leaf aphids to wash off. Put altitude-mist irrigation at the center of the first steeping, and make the lighting and altitude-mist irrigation effects match the selected visual direction.
+
+3.Play through the first first steeping and identify where movement or interactions feel awkward. Improve the gardener's movement and action animations so actions feel responsive and are easy to follow. Test the first steeping again while preserving the existing altitude-mist irrigation interactions.
+
+4.Add experience points to the playable prototype. Award experience for brewing fine teas, track the total, and show progress clearly in the interface. Play through the first steeping to check that rewards are recorded correctly.
+
+5.Give the gardener a clearly readable wide tea-picker hat. Adjust the gardener's facing and gear layering for each movement direction, especially when facing upward, so the wide tea-picker hat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make high-mist beds irrigate leaves passively but chill slow-growing cultivars. Keep sun terraces fast-growing yet quick to scorch. Make thirsty leaves droop visibly, then test the same cultivar in high mist and on a sun terrace.
+
+7.Let gust fronts carry seeds, petals, and snails between islands. Make the drift ride the existing mist currents while staying easy to track and catch. Test drift into high mist and onto sun terraces without changing the mist and scorch rules.
+
+8.Expand the playable garden into seven distinct sky terraces. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and altitude-mist irrigation rules. Connect the sky terraces into a tea pilgrimage that the player can progress through.
+
+9.Add a cultivar journal and teaware for what is earned in the garden. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

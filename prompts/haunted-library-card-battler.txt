@@ -1,0 +1,19 @@
+打造一款card battler where an archivist duels margin ghosts among living shelves，細節如下：
+
+1.Generate five concept images for a card battler where an archivist duels margin ghosts among living shelves. Keep characters, props, and creatures simple and readable. Explore distinct environments with fluttering pages, candle flicker, ink wisps, and dust in sun shafts. Aim for the atmosphere of Inscryption and the systemic variety of Slay the Spire.
+
+2.Build a short, polished reading duel from the attached Dustwing Stacks concept. Draw the graphics in code and make the character controllable, with margin ghosts to exorcise. Put shelf-order combos at the center of the reading duel, and make the lighting and shelf-order combos effects match the selected visual direction.
+
+3.Play through the first reading duel and identify where movement or interactions feel awkward. Improve the archivist's movement and action animations so actions feel responsive and are easy to follow. Test the reading duel again while preserving the existing shelf-order combos interactions.
+
+4.Add experience points to the playable prototype. Award experience for binding ghosts, track the total, and show progress clearly in the interface. Play through the reading duel to check that rewards are recorded correctly.
+
+5.Give the archivist an clearly readable owl glasses. Adjust the archivist's facing and gear layering for each movement direction, especially when facing upward, so the owl glasses sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make candlelit aisles empower verse cards but slowly burn the turn timer. Keep dark aisles safe for planning yet weakening to verse damage. Make lit shelves glow at the trim, then test the same hand inside candlelight and in the dark.
+
+7.Let exorcised ghosts drop loose pages that flutter to the floor. Make the pages drift on the existing air currents while staying easy to spot and shelve. Test drops in candlelight and in the dark without changing the candle and darkness rules.
+
+8.Expand the playable library into seven distinct library wings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and shelf-order combos rules. Connect the library wings into a cataloguing that the player can progress through.
+
+9.Add a deck and bookmark binder for what is earned in the library. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款market tycoon where a trader prices relics with a haggle-and-appraise stall，細節如下：
+
+1.Generate five concept images for a market tycoon where a trader prices relics with a haggle-and-appraise stall. Keep characters, props, and creatures simple and readable. Explore distinct environments with coin clinks, appraise glints, crowd haggles, and canvas flaps. Aim for the atmosphere of Recettear and the systemic variety of Papers Please.
+
+2.Build a short, polished market day from the attached The Marrow Market concept. Draw the graphics in code and make the character controllable, with rival stalls to outsell. Put haggle-and-appraise pricing at the center of the market day, and make the lighting and haggle-and-appraise pricing effects match the selected visual direction.
+
+3.Play through the first market day and identify where movement or interactions feel awkward. Improve the trader's movement and action animations so actions feel responsive and are easy to follow. Test the market day again while preserving the existing haggle-and-appraise pricing interactions.
+
+4.Add experience points to the playable prototype. Award experience for cornering the marrow, track the total, and show progress clearly in the interface. Play through the market day to check that rewards are recorded correctly.
+
+5.Give the trader an clearly readable abacus with skull beads. Adjust the trader's facing and gear layering for each movement direction, especially when facing upward, so the abacus with skull beads sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make bold haggles sell high but insult past the walkout bell. Keep fair prices walkout-safe yet earning thinly. Make insulted buyers storm visibly, then test the same day haggled bold and priced fair.
+
+7.Let outsold rivals leave stock, coins, and rumors at the stall. Make the leavings rest where dropped while staying easy to spot and shelf. Test leavings haggled bold and priced fair without changing the insult and thin rules.
+
+8.Expand the playable market into seven distinct market rows. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and haggle-and-appraise pricing rules. Connect the market rows into a season that the player can progress through.
+
+9.Add a price ledger and appraise lens for what is earned in the market. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

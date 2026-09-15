@@ -1,0 +1,19 @@
+打造一款horror where a night DJ tunes ghost frequencies with a fader-and-antenna booth，細節如下：
+
+1.Generate five concept images for a horror where a night DJ tunes ghost frequencies with a fader-and-antenna booth. Keep characters, props, and creatures simple and readable. Explore distinct environments with fader static, antenna hum, neon dial glow, and dead-air chills. Aim for the atmosphere of Phasmophobia and the systemic variety of Alan Wake.
+
+2.Build a short, polished night broadcast from the attached Static Bloom concept. Draw the graphics in code and make the character controllable, with dead-air wraiths to tune out. Put fader-and-antenna tuning at the center of the night broadcast, and make the lighting and fader-and-antenna tuning effects match the selected visual direction.
+
+3.Play through the first night broadcast and identify where movement or interactions feel awkward. Improve the dj's movement and action animations so actions feel responsive and are easy to follow. Test the night broadcast again while preserving the existing fader-and-antenna tuning interactions.
+
+4.Add experience points to the playable prototype. Award experience for holding the frequency, track the total, and show progress clearly in the interface. Play through the night broadcast to check that rewards are recorded correctly.
+
+5.Give the dj a clearly readable headphone with taped mic. Adjust the dj's facing and gear layering for each movement direction, especially when facing upward, so the headphone with taped mic sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make boost-gain tunes reach far ghosts but feedback past the shriek bell. Keep low-gain tunes shriek-safe yet reaching only near static. Make feedback needles slam visibly, then test the same broadcast boosted and kept low.
+
+7.Let tuned ghosts leave requests, tapes, and dedications in the booth. Make the notes rest where slipped while staying easy to read and play. Test notes boosted and kept low without changing the feedback and near rules.
+
+8.Expand the playable station into seven distinct night frequencies. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and fader-and-antenna tuning rules. Connect the night frequencies into a season that the player can progress through.
+
+9.Add a request log and antenna map for what is earned in the station. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

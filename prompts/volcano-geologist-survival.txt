@@ -1,0 +1,19 @@
+打造一款first-person survival where a geologist vents lava tubes with a pressure-bleed drill，細節如下：
+
+1.Generate five concept images for a first-person survival where a geologist vents lava tubes with a pressure-bleed drill. Keep characters, props, and creatures simple and readable. Explore distinct environments with lava glow, ashfall veils, drill sparks, and sulfur steam. Aim for the atmosphere of The Long Dark and the systemic variety of Subnautica.
+
+2.Build a short, polished eruption watch from the attached Emberthroat concept. Draw the graphics in code and make the character controllable, with ash wraiths to outlast. Put pressure-bleed drilling at the center of the eruption watch, and make the lighting and pressure-bleed drilling effects match the selected visual direction.
+
+3.Play through the first eruption watch and identify where movement or interactions feel awkward. Improve the geologist's movement and action animations so actions feel responsive and are easy to follow. Test the eruption watch again while preserving the existing pressure-bleed drilling interactions.
+
+4.Add experience points to the playable prototype. Award experience for sealing the throat, track the total, and show progress clearly in the interface. Play through the eruption watch to check that rewards are recorded correctly.
+
+5.Give the geologist a clearly readable heat-cracked goggles. Adjust the geologist's facing and gear layering for each movement direction, especially when facing upward, so the heat-cracked goggles sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make vented tubes cool fast but collapse past the brittle tick. Keep unvented tubes stable yet hot enough to scorch. Make brittle rock crackle white, then test the same watch fully vented and sealed hot.
+
+7.Let cooled flows drop obsidian, sulfur, and lost tools on the caldera. Make the finds glint where they cool while staying easy to spot and bag. Test finds vented and sealed hot without changing the collapse and scorch rules.
+
+8.Expand the playable caldera into seven distinct lava tubes. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and pressure-bleed drilling rules. Connect the lava tubes into a eruption cycle that the player can progress through.
+
+9.Add a sample case and drill rig for what is earned in the caldera. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

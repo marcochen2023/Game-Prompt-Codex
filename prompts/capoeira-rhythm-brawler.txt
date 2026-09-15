@@ -1,0 +1,19 @@
+打造一款rhythm brawler where a capoeirista fights inside a drum-driven roda circle，細節如下：
+
+1.Generate five concept images for a rhythm brawler where a capoeirista fights inside a drum-driven roda circle. Keep characters, props, and creatures simple and readable. Explore distinct environments with beat rings, kicked dust, crowd glow, and string-light sway. Aim for the atmosphere of Hi-Fi Rush and the systemic variety of Sifu.
+
+2.Build a short, polished roda bout from the attached Solar Roda concept. Draw the graphics in code and make the character controllable, with rival dancers to outplay. Put beat-locked dodging at the center of the roda bout, and make the lighting and beat-locked dodging effects match the selected visual direction.
+
+3.Play through the first roda bout and identify where movement or interactions feel awkward. Improve the capoeirista's movement and action animations so actions feel responsive and are easy to follow. Test the roda bout again while preserving the existing beat-locked dodging interactions.
+
+4.Add experience points to the playable prototype. Award experience for winning bouts, track the total, and show progress clearly in the interface. Play through the roda bout to check that rewards are recorded correctly.
+
+5.Give the capoeirista a clearly readable green-and-yellow cord belt. Adjust the capoeirista's facing and gear layering for each movement direction, especially when facing upward, so the green-and-yellow cord belt sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make attacks landing on the drumbeat deal bonus ginga damage and extend combos. Keep off-beat strikes weak and briefly staggering. Make the beat pulse readable on the floor ring, then test the same combo played on-beat and fully off-beat.
+
+7.Let the crowd toss flowers, coins, and water gourds into the roda. Make the gifts arc onto the floor while staying easy to see and claim. Test gifts mid-song and during a break without changing the on-beat and off-beat rules.
+
+8.Expand the playable street circuit into seven distinct street rodas. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and beat-locked dodging rules. Connect the street rodas into a tournament ladder that the player can progress through.
+
+9.Add cords and instrument charms for what is earned in the street circuit. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

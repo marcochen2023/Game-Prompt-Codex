@@ -1,0 +1,19 @@
+打造一款match-3 battler where a chocolatier hurls candy golems with a sugar-rush combo oven，細節如下：
+
+1.Generate five concept images for a match-3 battler where a chocolatier hurls candy golems with a sugar-rush combo oven. Keep characters, props, and creatures simple and readable. Explore distinct environments with candy shatter, sugar glow, wrapper flutters, and oven warmth. Aim for the atmosphere of Puzzle Quest and the systemic variety of Tetris Effect.
+
+2.Build a short, polished sugar bout from the attached Gumdrop Works concept. Draw the graphics in code and make the character controllable, with sour golems to melt. Put sugar-rush match chaining at the center of the sugar bout, and make the lighting and sugar-rush match chaining effects match the selected visual direction.
+
+3.Play through the first sugar bout and identify where movement or interactions feel awkward. Improve the chocolatier's movement and action animations so actions feel responsive and are easy to follow. Test the sugar bout again while preserving the existing sugar-rush match chaining interactions.
+
+4.Add experience points to the playable prototype. Award experience for winning the bake-off, track the total, and show progress clearly in the interface. Play through the sugar bout to check that rewards are recorded correctly.
+
+5.Give the chocolatier a clearly readable peppermint-striped apron. Adjust the chocolatier's facing and gear layering for each movement direction, especially when facing upward, so the peppermint-striped apron sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make long sugar chains detonate bonus golems but rot teeth past the ache bell. Keep small matches safe yet dealing chip damage. Make aching boards throb red, then test the same board chained long and matched small.
+
+7.Let melted golems drop gummies, wrappers, and recipe cards on the tray. Make the drops bounce softly while staying easy to spot and sweep. Test drops from long chains and small matches without changing the detonate and chip rules.
+
+8.Expand the playable works into seven distinct candy wards. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and sugar-rush match chaining rules. Connect the candy wards into a bake-off that the player can progress through.
+
+9.Add a recipe tin and oven dials for what is earned in the works. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

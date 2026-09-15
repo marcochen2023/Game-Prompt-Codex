@@ -1,0 +1,19 @@
+打造一款real-time strategy where a queen's scent-general routes ant legions with a pheromone-trail network，細節如下：
+
+1.Generate five concept images for a real-time strategy where a queen's scent-general routes ant legions with a pheromone-trail network. Keep characters, props, and creatures simple and readable. Explore distinct environments with pheromone ribbons, soil crumbs, leaf shadows, and rain drumbeats. Aim for the atmosphere of Pikmin and the systemic variety of StarCraft.
+
+2.Build a short, polished forage push from the attached Underleaf Empire concept. Draw the graphics in code and make the character controllable, with termite raiders to repel. Put pheromone-trail routing at the center of the forage push, and make the lighting and pheromone-trail routing effects match the selected visual direction.
+
+3.Play through the first forage push and identify where movement or interactions feel awkward. Improve the scent-general's movement and action animations so actions feel responsive and are easy to follow. Test the forage push again while preserving the existing pheromone-trail routing interactions.
+
+4.Add experience points to the playable prototype. Award experience for securing the harvest, track the total, and show progress clearly in the interface. Play through the forage push to check that rewards are recorded correctly.
+
+5.Give the scent-general an clearly readable amber-tipped antennae. Adjust the scent-general's facing and gear layering for each movement direction, especially when facing upward, so the amber-tipped antennae sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make fresh pheromone trails speed legions but evaporate past the fade bell. Keep old trunk trails slow yet permanent once sealed. Make fading trails thin visibly, then test the same push on fresh scent and on sealed trunk.
+
+7.Let raided termites drop chitin, seeds, and dew beads along the trails. Make the drops rest where mandibles drop them while staying easy to spot and haul. Test drops on fresh scent and sealed trunk without changing the fade and permanent rules.
+
+8.Expand the playable colony into seven distinct nest tiers. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and pheromone-trail routing rules. Connect the nest tiers into a swarm seasons that the player can progress through.
+
+9.Add a brood ledger and trail atlas for what is earned in the colony. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

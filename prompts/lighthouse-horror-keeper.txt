@@ -1,0 +1,19 @@
+打造一款first-person horror where a keeper sweeps a light beam to hold back drowned things，細節如下：
+
+1.Generate five concept images for a first-person horror where a keeper sweeps a light beam to hold back drowned things. Keep characters, props, and creatures simple and readable. Explore distinct environments with beam sweep, foghorn rings, brine drips, and gull cries. Aim for the atmosphere of Amnesia and the systemic variety of Outer Wilds.
+
+2.Build a short, polished storm watch from the attached Greywidow Light concept. Draw the graphics in code and make the character controllable, with drowned things to hold back. Put light-sweep warding at the center of the storm watch, and make the lighting and light-sweep warding effects match the selected visual direction.
+
+3.Play through the first storm watch and identify where movement or interactions feel awkward. Improve the keeper's movement and action animations so actions feel responsive and are easy to follow. Test the storm watch again while preserving the existing light-sweep warding interactions.
+
+4.Add experience points to the playable prototype. Award experience for keeping the light, track the total, and show progress clearly in the interface. Play through the storm watch to check that rewards are recorded correctly.
+
+5.Give the keeper an clearly readable oilskin keeper coat. Adjust the keeper's facing and gear layering for each movement direction, especially when facing upward, so the oilskin keeper coat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make focused beams burn back the drowned but overheat the lamp past the crack tick. Keep shuttered dark safe for the lamp yet letting things climb. Make cracking glass spider visibly, then test the same watch beamed wide and shuttered.
+
+7.Let the tide leave shells, letters, and brass keys on the rocks. Make the gifts glint in the existing beam while staying easy to spot and gather. Test gifts under full beam and shuttered dark without changing the burn and climb rules.
+
+8.Expand the playable coast into seven distinct watch nights. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and light-sweep warding rules. Connect the watch nights into a keeper years that the player can progress through.
+
+9.Add a logbook and lamp kit for what is earned in the coast. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

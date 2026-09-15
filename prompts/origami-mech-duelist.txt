@@ -1,0 +1,19 @@
+打造一款arena duelist where a folder pilots a paper mech with crease-heat swordplay，細節如下：
+
+1.Generate five concept images for an arena duelist where a folder pilots a paper mech with crease-heat swordplay. Keep characters, props, and creatures simple and readable. Explore distinct environments with paper creases, fold steam, ink slashes, and confetti bursts. Aim for the atmosphere of Armored Core and the systemic variety of Sekiro.
+
+2.Build a short, polished fold duel from the attached Thousandfold Ring concept. Draw the graphics in code and make the character controllable, with rival folders to outfold. Put crease-heat blade dueling at the center of the fold duel, and make the lighting and crease-heat blade dueling effects match the selected visual direction.
+
+3.Play through the first fold duel and identify where movement or interactions feel awkward. Improve the folder's movement and action animations so actions feel responsive and are easy to follow. Test the fold duel again while preserving the existing crease-heat blade dueling interactions.
+
+4.Add experience points to the playable prototype. Award experience for taking the ring, track the total, and show progress clearly in the interface. Play through the fold duel to check that rewards are recorded correctly.
+
+5.Give the folder a clearly readable crane-fold helm crest. Adjust the folder's facing and gear layering for each movement direction, especially when facing upward, so the crane-fold helm crest sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make heated creases cut deep but burn through folds past the scorch tick. Keep cool folds safe yet dealing half damage. Make scorching seams smoke at the edge, then test the same duel run hot and fully cooled.
+
+7.Let unmade rivals shed folds, seals, and ink sticks on the ring. Make the drops flutter down while staying easy to spot and claim. Test drops from hot duels and cooled duels without changing the burn and half-damage rules.
+
+8.Expand the playable ring into seven distinct duel rings. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and crease-heat blade dueling rules. Connect the duel rings into a tournament that the player can progress through.
+
+9.Add a fold archive and ink seals for what is earned in the ring. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

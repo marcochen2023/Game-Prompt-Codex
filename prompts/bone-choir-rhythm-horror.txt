@@ -1,0 +1,19 @@
+打造一款rhythm horror where a chorister keeps a bone choir singing with a breath-lantern meter，細節如下：
+
+1.Generate five concept images for a rhythm horror where a chorister keeps a bone choir singing with a breath-lantern meter. Keep characters, props, and creatures simple and readable. Explore distinct environments with choir breath rings, lantern sway, bone chimes, and dust falls. Aim for the atmosphere of Crypt of the NecroDancer and the systemic variety of Amnesia.
+
+2.Build a short, polished midnight requiem from the attached Ossuary Hymn concept. Draw the graphics in code and make the character controllable, with silent ones to outsong. Put breath-lantern singing at the center of the midnight requiem, and make the lighting and breath-lantern singing effects match the selected visual direction.
+
+3.Play through the first midnight requiem and identify where movement or interactions feel awkward. Improve the chorister's movement and action animations so actions feel responsive and are easy to follow. Test the midnight requiem again while preserving the existing breath-lantern singing interactions.
+
+4.Add experience points to the playable prototype. Award experience for finishing the requiem, track the total, and show progress clearly in the interface. Play through the midnight requiem to check that rewards are recorded correctly.
+
+5.Give the chorister a clearly readable choir robe with bone clasps. Adjust the chorister's facing and gear layering for each movement direction, especially when facing upward, so the choir robe with bone clasps sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make full-breath verses banish the silent but gutter the lantern past the dim bell. Keep shallow breaths lamp-safe yet barely holding them back. Make guttering flames shrink visibly, then test the same requiem sung full and breathed shallow.
+
+7.Let banished silent ones drop teeth, hymn sheets, and wax on the steps. Make the relics rest where they fall while staying easy to spot and gather. Test relics sung full and breathed shallow without changing the gutter and weak rules.
+
+8.Expand the playable ossuary into seven distinct choir nights. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and breath-lantern singing rules. Connect the choir nights into a requiem that the player can progress through.
+
+9.Add a hymnal and lantern oils for what is earned in the ossuary. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

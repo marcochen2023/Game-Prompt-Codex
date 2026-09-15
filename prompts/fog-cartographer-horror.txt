@@ -1,0 +1,19 @@
+打造一款horror explorer where a cartographer inks fog maps with a bell-echo survey，細節如下：
+
+1.Generate five concept images for a horror explorer where a cartographer inks fog maps with a bell-echo survey. Keep characters, props, and creatures simple and readable. Explore distinct environments with fog banks, bell rings, ink bleeds, and lamp cones. Aim for the atmosphere of Amnesia and the systemic variety of Outer Wilds.
+
+2.Build a short, polished survey night from the attached Greywater concept. Draw the graphics in code and make the character controllable, with fog bells to chart. Put bell-echo surveying at the center of the survey night, and make the lighting and bell-echo surveying effects match the selected visual direction.
+
+3.Play through the first survey night and identify where movement or interactions feel awkward. Improve the cartographer's movement and action animations so actions feel responsive and are easy to follow. Test the survey night again while preserving the existing bell-echo surveying interactions.
+
+4.Add experience points to the playable prototype. Award experience for inking the greywater, track the total, and show progress clearly in the interface. Play through the survey night to check that rewards are recorded correctly.
+
+5.Give the cartographer a clearly readable fog-damp oilskin coat. Adjust the cartographer's facing and gear layering for each movement direction, especially when facing upward, so the fog-damp oilskin coat sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make loud bell surveys map far but wake what listens past the answer bell. Keep chalk-mark surveys quiet yet short-ranged. Make answering fog ripple visibly, then test the same night surveyed loud and chalked quiet.
+
+7.Let charted fogs leave bells, charts, and oil on the docks. Make the finds rest where the fog thins while staying easy to spot and log. Test finds surveyed loud and chalked quiet without changing the wake and short rules.
+
+8.Expand the playable water into seven distinct fog reaches. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and bell-echo surveying rules. Connect the fog reaches into a expedition that the player can progress through.
+
+9.Add a bell set and ink case for what is earned in the water. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.

@@ -1,0 +1,19 @@
+打造一款transit builder where a mole conductor links mushroom stations with a spore-timetable grid，細節如下：
+
+1.Generate five concept images for a transit builder where a mole conductor links mushroom stations with a spore-timetable grid. Keep characters, props, and creatures simple and readable. Explore distinct environments with spore puffs, tunnel drips, lamp pools, and train rumble. Aim for the atmosphere of Mini Metro and the systemic variety of Cities: Skylines.
+
+2.Build a short, polished rush hour from the attached Myceline concept. Draw the graphics in code and make the character controllable, with blight jams to clear. Put spore-timetable routing at the center of the rush hour, and make the lighting and spore-timetable routing effects match the selected visual direction.
+
+3.Play through the first rush hour and identify where movement or interactions feel awkward. Improve the conductor's movement and action animations so actions feel responsive and are easy to follow. Test the rush hour again while preserving the existing spore-timetable routing interactions.
+
+4.Add experience points to the playable prototype. Award experience for uniting the myceline, track the total, and show progress clearly in the interface. Play through the rush hour to check that rewards are recorded correctly.
+
+5.Give the conductor a clearly readable brass conductor whistle. Adjust the conductor's facing and gear layering for each movement direction, especially when facing upward, so the brass conductor whistle sits correctly behind the character. Check the result while moving and interacting.
+
+6.Make express spores skip stops fast but jam past the clog bell. Keep local spores jam-safe yet slow at every cap. Make clogging tunnels bulge visibly, then test the same hour run express and all-local.
+
+7.Let cleared jams drop spores, tickets, and lost umbrellas on platforms. Make the finds rest where sweepers leave them while staying easy to spot and claim. Test finds run express and all-local without changing the jam and slow rules.
+
+8.Expand the playable network into seven distinct tunnel boroughs. Give each theme its own environment and atmosphere while preserving the established movement, interaction, and spore-timetable routing rules. Connect the tunnel boroughs into a timetable year that the player can progress through.
+
+9.Add a timetable board and cap collection for what is earned in the network. Let players inspect, store, and swap items, and show how equipped choices affect character stats. Check that collecting and changing loadout works during a run.
